@@ -1,0 +1,223 @@
+{
+    "International_number_ID": "5319",
+    "Data_lines": "30",
+    "International_number_ID_Replicate": "5319",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "BETTY",
+    "Date": "20130319",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1953-10-26T06:00:00",
+            "Grade": "2",
+            "Latitude": 7.8,
+            "Longitude": 132.5,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1953-10-26T12:00:00",
+            "Grade": "2",
+            "Latitude": 8.5,
+            "Longitude": 130.5,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1953-10-26T18:00:00",
+            "Grade": "2",
+            "Latitude": 9.8,
+            "Longitude": 128.6,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1953-10-27T00:00:00",
+            "Grade": "2",
+            "Latitude": 11.6,
+            "Longitude": 126.8,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1953-10-27T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 125.0,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1953-10-27T12:00:00",
+            "Grade": "2",
+            "Latitude": 14.4,
+            "Longitude": 123.1,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1953-10-27T18:00:00",
+            "Grade": "2",
+            "Latitude": 14.5,
+            "Longitude": 122.5,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1953-10-28T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.6,
+            "Longitude": 121.8,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1953-10-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 15.0,
+            "Longitude": 120.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1953-10-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 15.2,
+            "Longitude": 119.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1953-10-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 15.5,
+            "Longitude": 118.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1953-10-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 16.0,
+            "Longitude": 118.0,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1953-10-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 16.4,
+            "Longitude": 117.5,
+            "CentralPressure": "982"
+        },
+        {
+            "Time": "1953-10-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 17.3,
+            "Longitude": 117.2,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 17.2,
+            "Longitude": 116.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-30T00:00:00",
+            "Grade": "9",
+            "Latitude": 16.9,
+            "Longitude": 116.0,
+            "CentralPressure": "966"
+        },
+        {
+            "Time": "1953-10-30T06:00:00",
+            "Grade": "9",
+            "Latitude": 17.0,
+            "Longitude": 115.4,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-30T12:00:00",
+            "Grade": "9",
+            "Latitude": 17.0,
+            "Longitude": 114.8,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-30T18:00:00",
+            "Grade": "9",
+            "Latitude": 17.0,
+            "Longitude": 114.2,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-31T00:00:00",
+            "Grade": "9",
+            "Latitude": 17.0,
+            "Longitude": 113.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-31T06:00:00",
+            "Grade": "9",
+            "Latitude": 17.5,
+            "Longitude": 112.6,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-31T12:00:00",
+            "Grade": "9",
+            "Latitude": 17.6,
+            "Longitude": 111.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-10-31T18:00:00",
+            "Grade": "9",
+            "Latitude": 17.7,
+            "Longitude": 110.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-11-01T00:00:00",
+            "Grade": "9",
+            "Latitude": 18.2,
+            "Longitude": 109.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-11-01T06:00:00",
+            "Grade": "9",
+            "Latitude": 18.3,
+            "Longitude": 108.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-11-01T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.5,
+            "Longitude": 107.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-11-01T18:00:00",
+            "Grade": "9",
+            "Latitude": 18.6,
+            "Longitude": 106.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1953-11-02T00:00:00",
+            "Grade": "9",
+            "Latitude": 18.8,
+            "Longitude": 105.3,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1953-11-02T06:00:00",
+            "Grade": "9",
+            "Latitude": 18.2,
+            "Longitude": 104.7,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1953-11-02T12:00:00",
+            "Grade": "2",
+            "Latitude": 18.1,
+            "Longitude": 104.3,
+            "CentralPressure": "1000"
+        }
+    ],
+    "FirstPointDate": "1953-10-26T06:00:00"
+}

@@ -1,0 +1,97 @@
+{
+    "International_number_ID": "6201",
+    "Data_lines": "12",
+    "International_number_ID_Replicate": "6201",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "FRAN",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1962-02-03T00:00:00",
+            "Grade": "2",
+            "Latitude": 5.5,
+            "Longitude": 128.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-03T06:00:00",
+            "Grade": "2",
+            "Latitude": 5.7,
+            "Longitude": 128.9,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-03T12:00:00",
+            "Grade": "2",
+            "Latitude": 6.0,
+            "Longitude": 129.3,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-03T18:00:00",
+            "Grade": "9",
+            "Latitude": 6.3,
+            "Longitude": 129.7,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-04T00:00:00",
+            "Grade": "9",
+            "Latitude": 6.7,
+            "Longitude": 130.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-04T06:00:00",
+            "Grade": "9",
+            "Latitude": 7.0,
+            "Longitude": 129.7,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-04T12:00:00",
+            "Grade": "9",
+            "Latitude": 7.4,
+            "Longitude": 129.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-04T18:00:00",
+            "Grade": "2",
+            "Latitude": 7.8,
+            "Longitude": 129.1,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-02-05T00:00:00",
+            "Grade": "2",
+            "Latitude": 8.4,
+            "Longitude": 128.7,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1962-02-05T06:00:00",
+            "Grade": "2",
+            "Latitude": 8.7,
+            "Longitude": 128.7,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1962-02-05T12:00:00",
+            "Grade": "2",
+            "Latitude": 9.1,
+            "Longitude": 128.7,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1962-02-05T18:00:00",
+            "Grade": "2",
+            "Latitude": 9.5,
+            "Longitude": 128.7,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1962-02-03T00:00:00"
+}

@@ -1,0 +1,153 @@
+{
+    "International_number_ID": "7229",
+    "Data_lines": "20",
+    "International_number_ID_Replicate": "7229",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "SALLY",
+    "Date": "19901017",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1972-11-30T00:00:00",
+            "Grade": "2",
+            "Latitude": 10.0,
+            "Longitude": 116.6,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1972-11-30T06:00:00",
+            "Grade": "2",
+            "Latitude": 9.1,
+            "Longitude": 115.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1972-11-30T12:00:00",
+            "Grade": "9",
+            "Latitude": 8.4,
+            "Longitude": 113.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1972-11-30T18:00:00",
+            "Grade": "9",
+            "Latitude": 7.7,
+            "Longitude": 112.4,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-12-01T00:00:00",
+            "Grade": "9",
+            "Latitude": 7.3,
+            "Longitude": 110.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-01T06:00:00",
+            "Grade": "9",
+            "Latitude": 6.8,
+            "Longitude": 109.3,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-01T12:00:00",
+            "Grade": "9",
+            "Latitude": 6.5,
+            "Longitude": 107.9,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-12-01T18:00:00",
+            "Grade": "9",
+            "Latitude": 6.8,
+            "Longitude": 107.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-12-02T00:00:00",
+            "Grade": "9",
+            "Latitude": 7.0,
+            "Longitude": 106.3,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-12-02T06:00:00",
+            "Grade": "9",
+            "Latitude": 7.7,
+            "Longitude": 105.3,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-02T12:00:00",
+            "Grade": "9",
+            "Latitude": 7.8,
+            "Longitude": 104.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-02T18:00:00",
+            "Grade": "9",
+            "Latitude": 7.9,
+            "Longitude": 104.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-03T00:00:00",
+            "Grade": "9",
+            "Latitude": 8.0,
+            "Longitude": 103.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-03T06:00:00",
+            "Grade": "9",
+            "Latitude": 8.5,
+            "Longitude": 102.4,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-12-03T12:00:00",
+            "Grade": "9",
+            "Latitude": 8.9,
+            "Longitude": 101.9,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1972-12-03T18:00:00",
+            "Grade": "9",
+            "Latitude": 9.4,
+            "Longitude": 101.5,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1972-12-04T00:00:00",
+            "Grade": "9",
+            "Latitude": 9.7,
+            "Longitude": 101.3,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-12-04T06:00:00",
+            "Grade": "9",
+            "Latitude": 9.8,
+            "Longitude": 100.6,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-12-04T12:00:00",
+            "Grade": "9",
+            "Latitude": 9.8,
+            "Longitude": 99.7,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1972-12-04T18:00:00",
+            "Grade": "9",
+            "Latitude": 10.0,
+            "Longitude": 98.6,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1972-11-30T00:00:00"
+}

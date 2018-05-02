@@ -1,0 +1,97 @@
+{
+    "International_number_ID": "7429",
+    "Data_lines": "12",
+    "International_number_ID_Replicate": "7429",
+    "Flag": "0",
+    "DurationOfTimeUnit": "3",
+    "Name": "HESTER",
+    "Date": "19920430",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1974-11-12T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.0,
+            "Longitude": 126.0,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1974-11-13T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.5,
+            "Longitude": 124.2,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1974-11-13T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.9,
+            "Longitude": 121.9,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1974-11-13T12:00:00",
+            "Grade": "2",
+            "Latitude": 13.4,
+            "Longitude": 119.4,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1974-11-13T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.9,
+            "Longitude": 118.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-11-14T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.8,
+            "Longitude": 117.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-11-14T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.7,
+            "Longitude": 115.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-11-14T12:00:00",
+            "Grade": "2",
+            "Latitude": 13.6,
+            "Longitude": 114.4,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-11-14T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.4,
+            "Longitude": 112.5,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-11-15T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.2,
+            "Longitude": 110.7,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-11-15T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.2,
+            "Longitude": 109.7,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1974-11-15T09:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 109.0,
+            "CentralPressure": "1004"
+        }
+    ],
+    "FirstPointDate": "1974-11-12T18:00:00"
+}

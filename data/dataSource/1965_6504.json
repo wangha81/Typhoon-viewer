@@ -1,0 +1,62 @@
+{
+    "International_number_ID": "6504",
+    "Data_lines": "7",
+    "International_number_ID_Replicate": "6504",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "VERA",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1965-03-06T06:00:00",
+            "Grade": "2",
+            "Latitude": 10.3,
+            "Longitude": 128.7,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1965-03-06T12:00:00",
+            "Grade": "2",
+            "Latitude": 10.7,
+            "Longitude": 128.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1965-03-06T18:00:00",
+            "Grade": "9",
+            "Latitude": 11.1,
+            "Longitude": 127.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1965-03-07T00:00:00",
+            "Grade": "9",
+            "Latitude": 11.5,
+            "Longitude": 126.4,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1965-03-07T06:00:00",
+            "Grade": "9",
+            "Latitude": 11.9,
+            "Longitude": 125.4,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1965-03-07T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.3,
+            "Longitude": 124.3,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1965-03-07T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 123.0,
+            "CentralPressure": "1006"
+        }
+    ],
+    "FirstPointDate": "1965-03-06T06:00:00"
+}

@@ -1,0 +1,209 @@
+{
+    "International_number_ID": "5611",
+    "Data_lines": "28",
+    "International_number_ID_Replicate": "5611",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "DINAH",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1956-08-30T18:00:00",
+            "Grade": "2",
+            "Latitude": 20.3,
+            "Longitude": 132.4,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1956-08-31T00:00:00",
+            "Grade": "9",
+            "Latitude": 20.3,
+            "Longitude": 131.8,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1956-08-31T06:00:00",
+            "Grade": "9",
+            "Latitude": 20.0,
+            "Longitude": 129.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-08-31T12:00:00",
+            "Grade": "9",
+            "Latitude": 19.6,
+            "Longitude": 129.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-08-31T18:00:00",
+            "Grade": "9",
+            "Latitude": 19.4,
+            "Longitude": 128.6,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1956-09-01T00:00:00",
+            "Grade": "9",
+            "Latitude": 19.0,
+            "Longitude": 128.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1956-09-01T06:00:00",
+            "Grade": "9",
+            "Latitude": 19.3,
+            "Longitude": 127.2,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1956-09-01T12:00:00",
+            "Grade": "9",
+            "Latitude": 19.8,
+            "Longitude": 126.5,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1956-09-01T18:00:00",
+            "Grade": "9",
+            "Latitude": 20.0,
+            "Longitude": 126.1,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-02T00:00:00",
+            "Grade": "9",
+            "Latitude": 20.6,
+            "Longitude": 125.4,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-02T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.3,
+            "Longitude": 124.9,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-02T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.0,
+            "Longitude": 124.1,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-02T18:00:00",
+            "Grade": "9",
+            "Latitude": 22.9,
+            "Longitude": 123.1,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-03T00:00:00",
+            "Grade": "9",
+            "Latitude": 23.9,
+            "Longitude": 122.1,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-03T06:00:00",
+            "Grade": "9",
+            "Latitude": 24.6,
+            "Longitude": 121.1,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-03T12:00:00",
+            "Grade": "9",
+            "Latitude": 25.5,
+            "Longitude": 120.0,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1956-09-03T18:00:00",
+            "Grade": "9",
+            "Latitude": 26.5,
+            "Longitude": 119.0,
+            "CentralPressure": "978"
+        },
+        {
+            "Time": "1956-09-04T00:00:00",
+            "Grade": "9",
+            "Latitude": 27.7,
+            "Longitude": 117.8,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1956-09-04T06:00:00",
+            "Grade": "9",
+            "Latitude": 29.0,
+            "Longitude": 117.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-04T12:00:00",
+            "Grade": "9",
+            "Latitude": 31.0,
+            "Longitude": 117.8,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1956-09-04T18:00:00",
+            "Grade": "9",
+            "Latitude": 32.7,
+            "Longitude": 118.5,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1956-09-05T00:00:00",
+            "Grade": "9",
+            "Latitude": 34.2,
+            "Longitude": 120.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1956-09-05T06:00:00",
+            "Grade": "9",
+            "Latitude": 36.0,
+            "Longitude": 122.7,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-05T12:00:00",
+            "Grade": "9",
+            "Latitude": 39.0,
+            "Longitude": 126.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-05T18:00:00",
+            "Grade": "9",
+            "Latitude": 43.3,
+            "Longitude": 129.4,
+            "CentralPressure": "986"
+        },
+        {
+            "Time": "1956-09-06T00:00:00",
+            "Grade": "9",
+            "Latitude": 47.0,
+            "Longitude": 132.0,
+            "CentralPressure": "986"
+        },
+        {
+            "Time": "1956-09-06T06:00:00",
+            "Grade": "2",
+            "Latitude": 49.0,
+            "Longitude": 133.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-06T12:00:00",
+            "Grade": "2",
+            "Latitude": 49.0,
+            "Longitude": 137.0,
+            "CentralPressure": "1000"
+        }
+    ],
+    "FirstPointDate": "1956-08-30T18:00:00"
+}

@@ -1,0 +1,195 @@
+{
+    "International_number_ID": "7601",
+    "Data_lines": "26",
+    "International_number_ID_Replicate": "7601",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "KATHY",
+    "Date": "19921021",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1976-01-27T12:00:00",
+            "Grade": "2",
+            "Latitude": 5.0,
+            "Longitude": 149.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-01-27T18:00:00",
+            "Grade": "2",
+            "Latitude": 5.3,
+            "Longitude": 148.8,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-01-28T00:00:00",
+            "Grade": "2",
+            "Latitude": 5.6,
+            "Longitude": 147.8,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-01-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 6.0,
+            "Longitude": 146.7,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 6.6,
+            "Longitude": 145.4,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 6.8,
+            "Longitude": 144.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 6.7,
+            "Longitude": 143.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 6.8,
+            "Longitude": 143.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 8.4,
+            "Longitude": 141.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 9.5,
+            "Longitude": 140.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-01-30T00:00:00",
+            "Grade": "9",
+            "Latitude": 10.2,
+            "Longitude": 139.4,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1976-01-30T06:00:00",
+            "Grade": "9",
+            "Latitude": 10.9,
+            "Longitude": 138.6,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1976-01-30T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.1,
+            "Longitude": 138.3,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1976-01-30T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.4,
+            "Longitude": 138.3,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1976-01-31T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.5,
+            "Longitude": 138.3,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1976-01-31T06:00:00",
+            "Grade": "9",
+            "Latitude": 15.5,
+            "Longitude": 138.6,
+            "CentralPressure": "965"
+        },
+        {
+            "Time": "1976-01-31T12:00:00",
+            "Grade": "9",
+            "Latitude": 16.4,
+            "Longitude": 139.2,
+            "CentralPressure": "965"
+        },
+        {
+            "Time": "1976-01-31T18:00:00",
+            "Grade": "9",
+            "Latitude": 17.3,
+            "Longitude": 139.8,
+            "CentralPressure": "965"
+        },
+        {
+            "Time": "1976-02-01T00:00:00",
+            "Grade": "9",
+            "Latitude": 18.5,
+            "Longitude": 141.0,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1976-02-01T06:00:00",
+            "Grade": "9",
+            "Latitude": 19.0,
+            "Longitude": 143.0,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1976-02-01T12:00:00",
+            "Grade": "9",
+            "Latitude": 19.6,
+            "Longitude": 145.4,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1976-02-01T18:00:00",
+            "Grade": "9",
+            "Latitude": 20.4,
+            "Longitude": 148.5,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1976-02-02T00:00:00",
+            "Grade": "9",
+            "Latitude": 21.0,
+            "Longitude": 151.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-02-02T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.0,
+            "Longitude": 153.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-02-02T12:00:00",
+            "Grade": "2",
+            "Latitude": 21.0,
+            "Longitude": 156.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1976-02-02T18:00:00",
+            "Grade": "2",
+            "Latitude": 21.0,
+            "Longitude": 159.0,
+            "CentralPressure": "1004"
+        }
+    ],
+    "FirstPointDate": "1976-01-27T12:00:00"
+}

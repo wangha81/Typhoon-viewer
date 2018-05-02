@@ -1,0 +1,76 @@
+{
+    "International_number_ID": "5812",
+    "Data_lines": "9",
+    "International_number_ID_Replicate": "5812",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "BETTY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1958-07-14T00:00:00",
+            "Grade": "2",
+            "Latitude": 19.1,
+            "Longitude": 118.7,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1958-07-14T06:00:00",
+            "Grade": "2",
+            "Latitude": 18.9,
+            "Longitude": 118.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1958-07-14T12:00:00",
+            "Grade": "2",
+            "Latitude": 18.6,
+            "Longitude": 118.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1958-07-14T18:00:00",
+            "Grade": "2",
+            "Latitude": 18.4,
+            "Longitude": 118.3,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1958-07-15T00:00:00",
+            "Grade": "9",
+            "Latitude": 17.6,
+            "Longitude": 118.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1958-07-15T06:00:00",
+            "Grade": "9",
+            "Latitude": 17.5,
+            "Longitude": 118.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1958-07-15T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.3,
+            "Longitude": 118.6,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1958-07-15T18:00:00",
+            "Grade": "9",
+            "Latitude": 19.0,
+            "Longitude": 119.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1958-07-16T00:00:00",
+            "Grade": "2",
+            "Latitude": 20.5,
+            "Longitude": 119.5,
+            "CentralPressure": "996"
+        }
+    ],
+    "FirstPointDate": "1958-07-14T00:00:00"
+}

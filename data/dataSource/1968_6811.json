@@ -1,0 +1,83 @@
+{
+    "International_number_ID": "6811",
+    "Data_lines": "10",
+    "International_number_ID_Replicate": "6811",
+    "Flag": "1",
+    "DurationOfTimeUnit": "0",
+    "Name": "VIRGINIA",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1968-08-24T00:00:00",
+            "Grade": "2",
+            "Latitude": 21.0,
+            "Longitude": 177.4,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1968-08-24T06:00:00",
+            "Grade": "2",
+            "Latitude": 23.3,
+            "Longitude": 176.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1968-08-24T12:00:00",
+            "Grade": "2",
+            "Latitude": 26.0,
+            "Longitude": 176.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1968-08-24T18:00:00",
+            "Grade": "2",
+            "Latitude": 28.2,
+            "Longitude": 177.2,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1968-08-25T00:00:00",
+            "Grade": "9",
+            "Latitude": 30.9,
+            "Longitude": 177.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1968-08-25T06:00:00",
+            "Grade": "9",
+            "Latitude": 32.6,
+            "Longitude": 178.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1968-08-25T12:00:00",
+            "Grade": "9",
+            "Latitude": 34.3,
+            "Longitude": 178.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1968-08-25T18:00:00",
+            "Grade": "9",
+            "Latitude": 35.7,
+            "Longitude": 178.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1968-08-26T00:00:00",
+            "Grade": "9",
+            "Latitude": 37.4,
+            "Longitude": 179.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1968-08-26T06:00:00",
+            "Grade": "9",
+            "Latitude": 39.4,
+            "Longitude": 181.2,
+            "CentralPressure": "990"
+        }
+    ],
+    "FirstPointDate": "1968-08-24T00:00:00"
+}

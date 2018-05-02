@@ -1,0 +1,62 @@
+{
+    "International_number_ID": "6208",
+    "Data_lines": "7",
+    "International_number_ID_Replicate": "6208",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "MARGE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1962-07-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.1,
+            "Longitude": 148.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-07-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.5,
+            "Longitude": 148.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-07-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 147.9,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-07-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.3,
+            "Longitude": 147.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-07-29T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.7,
+            "Longitude": 146.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1962-07-29T12:00:00",
+            "Grade": "2",
+            "Latitude": 15.0,
+            "Longitude": 146.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1962-07-29T18:00:00",
+            "Grade": "2",
+            "Latitude": 15.4,
+            "Longitude": 145.7,
+            "CentralPressure": "1004"
+        }
+    ],
+    "FirstPointDate": "1962-07-28T06:00:00"
+}

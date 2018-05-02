@@ -1,0 +1,83 @@
+{
+    "International_number_ID": "5216",
+    "Data_lines": "10",
+    "International_number_ID_Replicate": "5216",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "SHIRLY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1952-10-14T06:00:00",
+            "Grade": "2",
+            "Latitude": 10.0,
+            "Longitude": 117.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-10-14T12:00:00",
+            "Grade": "2",
+            "Latitude": 10.5,
+            "Longitude": 115.5,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1952-10-14T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.4,
+            "Longitude": 114.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-10-15T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.4,
+            "Longitude": 112.7,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-10-15T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.2,
+            "Longitude": 111.3,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1952-10-15T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.5,
+            "Longitude": 109.5,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-10-15T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.3,
+            "Longitude": 107.6,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-10-16T00:00:00",
+            "Grade": "9",
+            "Latitude": 13.2,
+            "Longitude": 105.7,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1952-10-16T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.1,
+            "Longitude": 104.4,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-10-16T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.9,
+            "Longitude": 102.3,
+            "CentralPressure": "1003"
+        }
+    ],
+    "FirstPointDate": "1952-10-14T06:00:00"
+}

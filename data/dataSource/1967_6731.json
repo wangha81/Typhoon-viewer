@@ -1,0 +1,117 @@
+{
+    "International_number_ID": "6731",
+    "Data_lines": "15",
+    "International_number_ID_Replicate": "6731",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19890601",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1967-09-28T00:00:00",
+            "Grade": "2",
+            "Latitude": 25.0,
+            "Longitude": 135.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1967-09-28T06:00:00",
+            "Grade": "2",
+            "Latitude": 25.8,
+            "Longitude": 135.9,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1967-09-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 27.0,
+            "Longitude": 136.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1967-09-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 27.8,
+            "Longitude": 135.6,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1967-09-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 28.0,
+            "Longitude": 134.5,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1967-09-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 27.9,
+            "Longitude": 133.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1967-09-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 27.7,
+            "Longitude": 132.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1967-09-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 26.7,
+            "Longitude": 130.4,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1967-09-30T00:00:00",
+            "Grade": "9",
+            "Latitude": 25.6,
+            "Longitude": 129.8,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1967-09-30T06:00:00",
+            "Grade": "9",
+            "Latitude": 24.9,
+            "Longitude": 129.8,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1967-09-30T12:00:00",
+            "Grade": "9",
+            "Latitude": 24.3,
+            "Longitude": 129.8,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1967-09-30T18:00:00",
+            "Grade": "9",
+            "Latitude": 24.1,
+            "Longitude": 130.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1967-10-01T00:00:00",
+            "Grade": "2",
+            "Latitude": 24.3,
+            "Longitude": 131.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1967-10-01T06:00:00",
+            "Grade": "2",
+            "Latitude": 24.8,
+            "Longitude": 131.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1967-10-01T12:00:00",
+            "Grade": "2",
+            "Latitude": 25.2,
+            "Longitude": 132.7,
+            "CentralPressure": "1002"
+        }
+    ],
+    "FirstPointDate": "1967-09-28T00:00:00"
+}

@@ -1,0 +1,125 @@
+{
+    "International_number_ID": "7003",
+    "Data_lines": "16",
+    "International_number_ID_Replicate": "7003",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "PAMELA",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1970-06-28T00:00:00",
+            "Grade": "2",
+            "Latitude": 5.9,
+            "Longitude": 130.0,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1970-06-28T06:00:00",
+            "Grade": "2",
+            "Latitude": 6.1,
+            "Longitude": 129.5,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1970-06-28T12:00:00",
+            "Grade": "2",
+            "Latitude": 6.3,
+            "Longitude": 128.9,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-06-28T18:00:00",
+            "Grade": "2",
+            "Latitude": 6.5,
+            "Longitude": 128.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-06-29T00:00:00",
+            "Grade": "2",
+            "Latitude": 7.0,
+            "Longitude": 128.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-06-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 7.6,
+            "Longitude": 127.6,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1970-06-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 8.3,
+            "Longitude": 127.4,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1970-06-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 9.3,
+            "Longitude": 126.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-06-30T00:00:00",
+            "Grade": "9",
+            "Latitude": 10.0,
+            "Longitude": 125.7,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-06-30T06:00:00",
+            "Grade": "9",
+            "Latitude": 10.4,
+            "Longitude": 124.8,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1970-06-30T12:00:00",
+            "Grade": "2",
+            "Latitude": 10.7,
+            "Longitude": 124.1,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-06-30T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.2,
+            "Longitude": 123.3,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-07-01T00:00:00",
+            "Grade": "2",
+            "Latitude": 11.5,
+            "Longitude": 122.5,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-07-01T06:00:00",
+            "Grade": "2",
+            "Latitude": 11.8,
+            "Longitude": 121.7,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-07-01T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.3,
+            "Longitude": 120.7,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-07-01T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.6,
+            "Longitude": 119.9,
+            "CentralPressure": "1004"
+        }
+    ],
+    "FirstPointDate": "1970-06-28T00:00:00"
+}

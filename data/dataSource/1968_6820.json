@@ -1,0 +1,167 @@
+{
+    "International_number_ID": "6820",
+    "Data_lines": "22",
+    "International_number_ID_Replicate": "6820",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "HESTER",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1968-10-15T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.8,
+            "Longitude": 117.9,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1968-10-16T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.7,
+            "Longitude": 117.4,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1968-10-16T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.6,
+            "Longitude": 117.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1968-10-16T12:00:00",
+            "Grade": "2",
+            "Latitude": 13.4,
+            "Longitude": 116.4,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1968-10-16T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.3,
+            "Longitude": 115.8,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1968-10-17T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.2,
+            "Longitude": 115.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1968-10-17T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.9,
+            "Longitude": 114.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1968-10-17T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.6,
+            "Longitude": 113.9,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1968-10-17T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.4,
+            "Longitude": 113.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1968-10-18T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.1,
+            "Longitude": 112.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1968-10-18T06:00:00",
+            "Grade": "9",
+            "Latitude": 11.8,
+            "Longitude": 112.6,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1968-10-18T12:00:00",
+            "Grade": "9",
+            "Latitude": 11.6,
+            "Longitude": 112.1,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1968-10-18T18:00:00",
+            "Grade": "9",
+            "Latitude": 11.4,
+            "Longitude": 111.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1968-10-19T00:00:00",
+            "Grade": "9",
+            "Latitude": 11.2,
+            "Longitude": 110.8,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1968-10-19T06:00:00",
+            "Grade": "9",
+            "Latitude": 11.0,
+            "Longitude": 110.3,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1968-10-19T12:00:00",
+            "Grade": "9",
+            "Latitude": 11.0,
+            "Longitude": 109.4,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1968-10-19T18:00:00",
+            "Grade": "9",
+            "Latitude": 11.0,
+            "Longitude": 108.7,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1968-10-20T00:00:00",
+            "Grade": "9",
+            "Latitude": 11.0,
+            "Longitude": 107.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1968-10-20T06:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 106.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1968-10-20T12:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 105.4,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1968-10-20T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 103.7,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1968-10-21T00:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 102.5,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1968-10-15T18:00:00"
+}

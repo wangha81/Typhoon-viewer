@@ -1,0 +1,118 @@
+{
+    "International_number_ID": "7611",
+    "Data_lines": "15",
+    "International_number_ID_Replicate": "7611",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "WILDA",
+    "Date": "19921021",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1976-07-21T12:00:00",
+            "Grade": "2",
+            "Latitude": 18.5,
+            "Longitude": 139.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-07-21T18:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 138.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1976-07-22T00:00:00",
+            "Grade": "2",
+            "Latitude": 19.4,
+            "Longitude": 138.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-07-22T06:00:00",
+            "Grade": "2",
+            "Latitude": 20.5,
+            "Longitude": 137.7,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1976-07-22T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.2,
+            "Longitude": 137.6,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-07-22T18:00:00",
+            "Grade": "9",
+            "Latitude": 24.2,
+            "Longitude": 137.2,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-07-23T00:00:00",
+            "Grade": "9",
+            "Latitude": 26.1,
+            "Longitude": 136.1,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-07-23T06:00:00",
+            "Grade": "9",
+            "Latitude": 27.8,
+            "Longitude": 135.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-07-23T12:00:00",
+            "Grade": "9",
+            "Latitude": 29.8,
+            "Longitude": 133.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-07-23T18:00:00",
+            "Grade": "9",
+            "Latitude": 32.0,
+            "Longitude": 132.5,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1976-07-23T21:00:00",
+            "Grade": "2",
+            "Latitude": 32.4,
+            "Longitude": 132.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1976-07-24T00:00:00",
+            "Grade": "2",
+            "Latitude": 35.0,
+            "Longitude": 131.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1976-07-24T06:00:00",
+            "Grade": "2",
+            "Latitude": 36.3,
+            "Longitude": 131.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-07-24T12:00:00",
+            "Grade": "2",
+            "Latitude": 38.5,
+            "Longitude": 131.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-07-24T18:00:00",
+            "Grade": "6",
+            "Latitude": 40.5,
+            "Longitude": 130.0,
+            "CentralPressure": "1004"
+        }
+    ],
+    "FirstPointDate": "1976-07-21T12:00:00"
+}

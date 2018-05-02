@@ -1,0 +1,61 @@
+{
+    "International_number_ID": "6106",
+    "Data_lines": "7",
+    "International_number_ID_Replicate": "6106",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19890601",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1961-06-25T18:00:00",
+            "Grade": "2",
+            "Latitude": 27.8,
+            "Longitude": 133.3,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1961-06-26T00:00:00",
+            "Grade": "2",
+            "Latitude": 28.1,
+            "Longitude": 132.9,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1961-06-26T06:00:00",
+            "Grade": "2",
+            "Latitude": 29.2,
+            "Longitude": 132.9,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1961-06-26T12:00:00",
+            "Grade": "9",
+            "Latitude": 30.0,
+            "Longitude": 133.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1961-06-26T18:00:00",
+            "Grade": "9",
+            "Latitude": 30.6,
+            "Longitude": 133.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1961-06-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 31.3,
+            "Longitude": 133.1,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1961-06-27T06:00:00",
+            "Grade": "2",
+            "Latitude": 32.1,
+            "Longitude": 133.8,
+            "CentralPressure": "996"
+        }
+    ],
+    "FirstPointDate": "1961-06-25T18:00:00"
+}

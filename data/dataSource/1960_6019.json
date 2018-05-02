@@ -1,0 +1,75 @@
+{
+    "International_number_ID": "6019",
+    "Data_lines": "9",
+    "International_number_ID_Replicate": "6019",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19890601",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1960-08-31T00:00:00",
+            "Grade": "2",
+            "Latitude": 25.0,
+            "Longitude": 123.7,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-08-31T06:00:00",
+            "Grade": "2",
+            "Latitude": 25.6,
+            "Longitude": 124.7,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-08-31T12:00:00",
+            "Grade": "2",
+            "Latitude": 26.3,
+            "Longitude": 125.5,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-08-31T18:00:00",
+            "Grade": "2",
+            "Latitude": 27.8,
+            "Longitude": 126.9,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-09-01T00:00:00",
+            "Grade": "2",
+            "Latitude": 28.7,
+            "Longitude": 128.2,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-09-01T06:00:00",
+            "Grade": "2",
+            "Latitude": 30.2,
+            "Longitude": 129.3,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-09-01T12:00:00",
+            "Grade": "9",
+            "Latitude": 31.4,
+            "Longitude": 129.6,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-09-01T18:00:00",
+            "Grade": "9",
+            "Latitude": 32.6,
+            "Longitude": 130.3,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1960-09-02T00:00:00",
+            "Grade": "6",
+            "Latitude": 34.4,
+            "Longitude": 131.1,
+            "CentralPressure": "1014"
+        }
+    ],
+    "FirstPointDate": "1960-08-31T00:00:00"
+}

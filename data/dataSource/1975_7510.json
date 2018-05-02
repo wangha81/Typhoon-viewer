@@ -1,0 +1,153 @@
+{
+    "International_number_ID": "7510",
+    "Data_lines": "20",
+    "International_number_ID_Replicate": "7510",
+    "Flag": "1",
+    "DurationOfTimeUnit": "6",
+    "Name": "WINNIE",
+    "Date": "19920127",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1975-09-08T00:00:00",
+            "Grade": "2",
+            "Latitude": 22.5,
+            "Longitude": 162.2,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1975-09-08T06:00:00",
+            "Grade": "2",
+            "Latitude": 23.1,
+            "Longitude": 163.2,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1975-09-08T12:00:00",
+            "Grade": "2",
+            "Latitude": 24.0,
+            "Longitude": 164.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1975-09-08T18:00:00",
+            "Grade": "2",
+            "Latitude": 24.8,
+            "Longitude": 163.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1975-09-09T00:00:00",
+            "Grade": "9",
+            "Latitude": 25.6,
+            "Longitude": 163.7,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1975-09-09T06:00:00",
+            "Grade": "9",
+            "Latitude": 26.6,
+            "Longitude": 163.5,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1975-09-09T12:00:00",
+            "Grade": "9",
+            "Latitude": 27.6,
+            "Longitude": 163.5,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1975-09-09T18:00:00",
+            "Grade": "9",
+            "Latitude": 28.7,
+            "Longitude": 163.2,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1975-09-10T00:00:00",
+            "Grade": "9",
+            "Latitude": 30.0,
+            "Longitude": 162.6,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1975-09-10T06:00:00",
+            "Grade": "9",
+            "Latitude": 31.2,
+            "Longitude": 162.2,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1975-09-10T12:00:00",
+            "Grade": "9",
+            "Latitude": 32.4,
+            "Longitude": 161.7,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1975-09-10T18:00:00",
+            "Grade": "9",
+            "Latitude": 33.5,
+            "Longitude": 162.0,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1975-09-11T00:00:00",
+            "Grade": "9",
+            "Latitude": 34.7,
+            "Longitude": 161.7,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1975-09-11T06:00:00",
+            "Grade": "9",
+            "Latitude": 36.3,
+            "Longitude": 162.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1975-09-11T12:00:00",
+            "Grade": "9",
+            "Latitude": 38.5,
+            "Longitude": 164.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1975-09-11T18:00:00",
+            "Grade": "9",
+            "Latitude": 40.5,
+            "Longitude": 166.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1975-09-12T00:00:00",
+            "Grade": "9",
+            "Latitude": 42.0,
+            "Longitude": 169.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1975-09-12T06:00:00",
+            "Grade": "9",
+            "Latitude": 43.8,
+            "Longitude": 172.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1975-09-12T12:00:00",
+            "Grade": "6",
+            "Latitude": 46.0,
+            "Longitude": 176.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1975-09-12T18:00:00",
+            "Grade": "6",
+            "Latitude": 48.3,
+            "Longitude": 180.0,
+            "CentralPressure": "990"
+        }
+    ],
+    "FirstPointDate": "1975-09-08T00:00:00"
+}

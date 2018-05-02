@@ -1,0 +1,111 @@
+{
+    "International_number_ID": "5623",
+    "Data_lines": "14",
+    "International_number_ID_Replicate": "5623",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "POLLY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1956-12-07T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.6,
+            "Longitude": 128.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1956-12-07T12:00:00",
+            "Grade": "2",
+            "Latitude": 14.3,
+            "Longitude": 127.2,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1956-12-07T18:00:00",
+            "Grade": "2",
+            "Latitude": 14.6,
+            "Longitude": 126.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1956-12-08T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.4,
+            "Longitude": 126.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1956-12-08T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.3,
+            "Longitude": 125.7,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1956-12-08T12:00:00",
+            "Grade": "9",
+            "Latitude": 14.1,
+            "Longitude": 125.2,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1956-12-08T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 124.8,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1956-12-09T00:00:00",
+            "Grade": "9",
+            "Latitude": 13.7,
+            "Longitude": 124.3,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1956-12-09T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 123.8,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1956-12-09T12:00:00",
+            "Grade": "9",
+            "Latitude": 14.2,
+            "Longitude": 123.2,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1956-12-09T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.0,
+            "Longitude": 122.4,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-12-10T00:00:00",
+            "Grade": "9",
+            "Latitude": 13.6,
+            "Longitude": 121.6,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1956-12-10T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.5,
+            "Longitude": 120.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1956-12-10T12:00:00",
+            "Grade": "2",
+            "Latitude": 13.4,
+            "Longitude": 120.1,
+            "CentralPressure": "1005"
+        }
+    ],
+    "FirstPointDate": "1956-12-07T06:00:00"
+}

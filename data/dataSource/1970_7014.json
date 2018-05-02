@@ -1,0 +1,104 @@
+{
+    "International_number_ID": "7014",
+    "Data_lines": "13",
+    "International_number_ID_Replicate": "7014",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "ELLEN",
+    "Date": "19910716",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1970-09-03T06:00:00",
+            "Grade": "2",
+            "Latitude": 18.1,
+            "Longitude": 138.1,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-09-03T12:00:00",
+            "Grade": "2",
+            "Latitude": 19.4,
+            "Longitude": 138.1,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-09-03T18:00:00",
+            "Grade": "2",
+            "Latitude": 21.2,
+            "Longitude": 137.8,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-09-04T00:00:00",
+            "Grade": "2",
+            "Latitude": 22.4,
+            "Longitude": 137.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-09-04T06:00:00",
+            "Grade": "2",
+            "Latitude": 23.3,
+            "Longitude": 136.0,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1970-09-04T12:00:00",
+            "Grade": "9",
+            "Latitude": 24.3,
+            "Longitude": 134.4,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1970-09-04T18:00:00",
+            "Grade": "9",
+            "Latitude": 25.5,
+            "Longitude": 132.3,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1970-09-05T00:00:00",
+            "Grade": "9",
+            "Latitude": 26.4,
+            "Longitude": 130.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-09-05T06:00:00",
+            "Grade": "9",
+            "Latitude": 26.0,
+            "Longitude": 127.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-09-05T12:00:00",
+            "Grade": "9",
+            "Latitude": 25.1,
+            "Longitude": 125.2,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1970-09-05T18:00:00",
+            "Grade": "9",
+            "Latitude": 24.2,
+            "Longitude": 125.1,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1970-09-06T00:00:00",
+            "Grade": "9",
+            "Latitude": 24.8,
+            "Longitude": 125.8,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1970-09-06T06:00:00",
+            "Grade": "9",
+            "Latitude": 25.5,
+            "Longitude": 125.0,
+            "CentralPressure": "990"
+        }
+    ],
+    "FirstPointDate": "1970-09-03T06:00:00"
+}

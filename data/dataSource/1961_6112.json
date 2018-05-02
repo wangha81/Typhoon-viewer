@@ -1,0 +1,26 @@
+{
+    "International_number_ID": "6112",
+    "Data_lines": "2",
+    "International_number_ID_Replicate": "6112",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19890601",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1961-08-01T06:00:00",
+            "Grade": "9",
+            "Latitude": 28.7,
+            "Longitude": 130.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1961-08-01T12:00:00",
+            "Grade": "9",
+            "Latitude": 30.2,
+            "Longitude": 130.5,
+            "CentralPressure": "986"
+        }
+    ],
+    "FirstPointDate": "1961-08-01T06:00:00"
+}

@@ -1,0 +1,34 @@
+{
+    "International_number_ID": "5620",
+    "Data_lines": "3",
+    "International_number_ID_Replicate": "5620",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "MARY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1956-11-16T00:00:00",
+            "Grade": "9",
+            "Latitude": 18.0,
+            "Longitude": 124.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1956-11-16T06:00:00",
+            "Grade": "9",
+            "Latitude": 18.2,
+            "Longitude": 123.4,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1956-11-16T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.0,
+            "Longitude": 123.2,
+            "CentralPressure": "1002"
+        }
+    ],
+    "FirstPointDate": "1956-11-16T00:00:00"
+}

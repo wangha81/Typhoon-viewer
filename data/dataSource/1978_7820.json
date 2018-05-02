@@ -1,0 +1,363 @@
+{
+    "International_number_ID": "7820",
+    "Data_lines": "34",
+    "International_number_ID_Replicate": "7820",
+    "Flag": "1",
+    "DurationOfTimeUnit": "0",
+    "Name": "KIT",
+    "Date": "19921021",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1978-09-20T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.4,
+            "Longitude": 127.5,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-20T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.4,
+            "Longitude": 128.6,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-20T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.9,
+            "Longitude": 129.0,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-21T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.4,
+            "Longitude": 129.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-21T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.8,
+            "Longitude": 128.0,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-21T12:00:00",
+            "Grade": "2",
+            "Latitude": 14.1,
+            "Longitude": 127.0,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-21T18:00:00",
+            "Grade": "2",
+            "Latitude": 14.5,
+            "Longitude": 126.0,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-22T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.7,
+            "Longitude": 125.0,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-22T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.9,
+            "Longitude": 123.8,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-22T12:00:00",
+            "Grade": "2",
+            "Latitude": 15.5,
+            "Longitude": 119.5,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-22T18:00:00",
+            "Grade": "2",
+            "Latitude": 14.9,
+            "Longitude": 118.4,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-23T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.8,
+            "Longitude": 117.4,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-23T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.8,
+            "Longitude": 116.5,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-23T12:00:00",
+            "Grade": "3",
+            "Latitude": 15.1,
+            "Longitude": 115.5,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1978-09-23T18:00:00",
+            "Grade": "3",
+            "Latitude": 15.5,
+            "Longitude": 114.7,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 180,
+            "Shortest_radius_of_30kt": 180
+        },
+        {
+            "Time": "1978-09-24T00:00:00",
+            "Grade": "3",
+            "Latitude": 15.9,
+            "Longitude": 113.9,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 180,
+            "Shortest_radius_of_30kt": 180
+        },
+        {
+            "Time": "1978-09-24T06:00:00",
+            "Grade": "3",
+            "Latitude": 16.5,
+            "Longitude": 112.9,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1978-09-24T12:00:00",
+            "Grade": "3",
+            "Latitude": 17.0,
+            "Longitude": 112.0,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1978-09-24T18:00:00",
+            "Grade": "3",
+            "Latitude": 17.4,
+            "Longitude": 111.2,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1978-09-25T00:00:00",
+            "Grade": "4",
+            "Latitude": 17.7,
+            "Longitude": 110.4,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1978-09-25T06:00:00",
+            "Grade": "3",
+            "Latitude": 18.0,
+            "Longitude": 109.6,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1978-09-25T12:00:00",
+            "Grade": "3",
+            "Latitude": 18.1,
+            "Longitude": 109.0,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1978-09-25T18:00:00",
+            "Grade": "3",
+            "Latitude": 18.0,
+            "Longitude": 108.4,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 90,
+            "Shortest_radius_of_30kt": 90
+        },
+        {
+            "Time": "1978-09-26T00:00:00",
+            "Grade": "3",
+            "Latitude": 17.8,
+            "Longitude": 107.6,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 90,
+            "Shortest_radius_of_30kt": 90
+        },
+        {
+            "Time": "1978-09-26T06:00:00",
+            "Grade": "3",
+            "Latitude": 17.6,
+            "Longitude": 106.9,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 90,
+            "Shortest_radius_of_30kt": 90
+        },
+        {
+            "Time": "1978-09-26T12:00:00",
+            "Grade": "3",
+            "Latitude": 17.3,
+            "Longitude": 105.9,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 50,
+            "Shortest_radius_of_30kt": 50
+        },
+        {
+            "Time": "1978-09-26T18:00:00",
+            "Grade": "2",
+            "Latitude": 17.0,
+            "Longitude": 105.0,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-27T00:00:00",
+            "Grade": "2",
+            "Latitude": 16.8,
+            "Longitude": 104.5,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-27T06:00:00",
+            "Grade": "2",
+            "Latitude": 16.3,
+            "Longitude": 103.7,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-27T12:00:00",
+            "Grade": "2",
+            "Latitude": 16.0,
+            "Longitude": 103.0,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-27T18:00:00",
+            "Grade": "2",
+            "Latitude": 15.7,
+            "Longitude": 102.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-28T00:00:00",
+            "Grade": "2",
+            "Latitude": 15.0,
+            "Longitude": 101.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-28T06:00:00",
+            "Grade": "2",
+            "Latitude": 15.0,
+            "Longitude": 100.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1978-09-28T12:00:00",
+            "Grade": "2",
+            "Latitude": 15.0,
+            "Longitude": 99.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "1978-09-20T06:00:00"
+}

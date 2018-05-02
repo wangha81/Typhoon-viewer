@@ -1,0 +1,216 @@
+{
+    "International_number_ID": "5703",
+    "Data_lines": "29",
+    "International_number_ID_Replicate": "5703",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "SHIRLEY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1957-04-11T06:00:00",
+            "Grade": "2",
+            "Latitude": 7.0,
+            "Longitude": 136.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-11T12:00:00",
+            "Grade": "2",
+            "Latitude": 7.0,
+            "Longitude": 135.2,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-11T18:00:00",
+            "Grade": "2",
+            "Latitude": 6.7,
+            "Longitude": 134.5,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-12T00:00:00",
+            "Grade": "9",
+            "Latitude": 6.7,
+            "Longitude": 134.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-12T06:00:00",
+            "Grade": "9",
+            "Latitude": 7.0,
+            "Longitude": 133.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-12T12:00:00",
+            "Grade": "9",
+            "Latitude": 7.5,
+            "Longitude": 132.7,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-12T18:00:00",
+            "Grade": "9",
+            "Latitude": 8.1,
+            "Longitude": 131.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-13T00:00:00",
+            "Grade": "9",
+            "Latitude": 8.7,
+            "Longitude": 130.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-13T06:00:00",
+            "Grade": "9",
+            "Latitude": 9.6,
+            "Longitude": 129.2,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-13T12:00:00",
+            "Grade": "9",
+            "Latitude": 10.2,
+            "Longitude": 128.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-04-13T18:00:00",
+            "Grade": "9",
+            "Latitude": 11.0,
+            "Longitude": 128.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1957-04-14T00:00:00",
+            "Grade": "9",
+            "Latitude": 11.7,
+            "Longitude": 128.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-04-14T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.4,
+            "Longitude": 127.7,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1957-04-14T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.3,
+            "Longitude": 127.5,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1957-04-14T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.1,
+            "Longitude": 127.4,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1957-04-15T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.8,
+            "Longitude": 127.4,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1957-04-15T06:00:00",
+            "Grade": "9",
+            "Latitude": 15.5,
+            "Longitude": 127.4,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1957-04-15T12:00:00",
+            "Grade": "9",
+            "Latitude": 16.2,
+            "Longitude": 127.4,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1957-04-15T18:00:00",
+            "Grade": "9",
+            "Latitude": 16.4,
+            "Longitude": 126.9,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-04-16T00:00:00",
+            "Grade": "9",
+            "Latitude": 16.5,
+            "Longitude": 126.5,
+            "CentralPressure": "997"
+        },
+        {
+            "Time": "1957-04-16T06:00:00",
+            "Grade": "9",
+            "Latitude": 17.0,
+            "Longitude": 126.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1957-04-16T12:00:00",
+            "Grade": "9",
+            "Latitude": 17.3,
+            "Longitude": 126.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1957-04-16T18:00:00",
+            "Grade": "9",
+            "Latitude": 17.5,
+            "Longitude": 125.5,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1957-04-17T00:00:00",
+            "Grade": "2",
+            "Latitude": 17.8,
+            "Longitude": 125.1,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1957-04-17T06:00:00",
+            "Grade": "2",
+            "Latitude": 17.9,
+            "Longitude": 124.7,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1957-04-17T12:00:00",
+            "Grade": "2",
+            "Latitude": 18.2,
+            "Longitude": 124.0,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1957-04-17T18:00:00",
+            "Grade": "2",
+            "Latitude": 18.3,
+            "Longitude": 123.3,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1957-04-18T00:00:00",
+            "Grade": "2",
+            "Latitude": 18.3,
+            "Longitude": 122.2,
+            "CentralPressure": "1010"
+        },
+        {
+            "Time": "1957-04-18T06:00:00",
+            "Grade": "2",
+            "Latitude": 17.7,
+            "Longitude": 120.0,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1957-04-11T06:00:00"
+}

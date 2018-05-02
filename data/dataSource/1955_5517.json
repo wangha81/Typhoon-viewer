@@ -1,0 +1,75 @@
+{
+    "International_number_ID": "5517",
+    "Data_lines": "9",
+    "International_number_ID_Replicate": "5517",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19890601",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1955-08-10T00:00:00",
+            "Grade": "2",
+            "Latitude": 34.6,
+            "Longitude": 175.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1955-08-10T06:00:00",
+            "Grade": "9",
+            "Latitude": 35.1,
+            "Longitude": 176.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1955-08-10T12:00:00",
+            "Grade": "9",
+            "Latitude": 35.7,
+            "Longitude": 176.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1955-08-10T18:00:00",
+            "Grade": "9",
+            "Latitude": 36.4,
+            "Longitude": 176.7,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1955-08-11T00:00:00",
+            "Grade": "9",
+            "Latitude": 37.0,
+            "Longitude": 177.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1955-08-11T06:00:00",
+            "Grade": "9",
+            "Latitude": 38.0,
+            "Longitude": 177.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1955-08-11T12:00:00",
+            "Grade": "9",
+            "Latitude": 38.7,
+            "Longitude": 176.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1955-08-11T18:00:00",
+            "Grade": "9",
+            "Latitude": 39.4,
+            "Longitude": 176.2,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1955-08-12T00:00:00",
+            "Grade": "9",
+            "Latitude": 40.0,
+            "Longitude": 175.9,
+            "CentralPressure": "1000"
+        }
+    ],
+    "FirstPointDate": "1955-08-10T00:00:00"
+}

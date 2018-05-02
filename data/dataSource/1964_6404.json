@@ -1,0 +1,83 @@
+{
+    "International_number_ID": "6404",
+    "Data_lines": "10",
+    "International_number_ID_Replicate": "6404",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "ALICE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1964-06-26T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.8,
+            "Longitude": 144.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1964-06-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.7,
+            "Longitude": 143.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1964-06-27T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.3,
+            "Longitude": 142.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-06-27T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 141.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-06-27T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.5,
+            "Longitude": 140.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-06-28T00:00:00",
+            "Grade": "9",
+            "Latitude": 15.1,
+            "Longitude": 139.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-06-28T06:00:00",
+            "Grade": "2",
+            "Latitude": 16.0,
+            "Longitude": 137.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-06-28T12:00:00",
+            "Grade": "2",
+            "Latitude": 16.2,
+            "Longitude": 136.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1964-06-28T18:00:00",
+            "Grade": "2",
+            "Latitude": 16.1,
+            "Longitude": 135.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1964-06-29T00:00:00",
+            "Grade": "2",
+            "Latitude": 15.8,
+            "Longitude": 135.0,
+            "CentralPressure": "1004"
+        }
+    ],
+    "FirstPointDate": "1964-06-26T18:00:00"
+}

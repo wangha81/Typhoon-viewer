@@ -1,0 +1,34 @@
+{
+    "International_number_ID": "7013",
+    "Data_lines": "3",
+    "International_number_ID_Replicate": "7013",
+    "Flag": "1",
+    "DurationOfTimeUnit": "0",
+    "Name": "DOT",
+    "Date": "20131122",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1970-09-02T06:00:00",
+            "Grade": "7",
+            "Latitude": 31.1,
+            "Longitude": 180.2,
+            "CentralPressure": "1010"
+        },
+        {
+            "Time": "1970-09-02T12:00:00",
+            "Grade": "9",
+            "Latitude": 32.3,
+            "Longitude": 180.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-09-02T18:00:00",
+            "Grade": "9",
+            "Latitude": 33.2,
+            "Longitude": 180.1,
+            "CentralPressure": "1002"
+        }
+    ],
+    "FirstPointDate": "1970-09-02T06:00:00"
+}

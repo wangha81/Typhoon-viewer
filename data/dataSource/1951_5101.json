@@ -1,0 +1,82 @@
+{
+    "International_number_ID": "5101",
+    "Data_lines": "10",
+    "International_number_ID_Replicate": "5101",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19901017",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1951-02-19T06:00:00",
+            "Grade": "2",
+            "Latitude": 20.0,
+            "Longitude": 138.5,
+            "CentralPressure": "1010"
+        },
+        {
+            "Time": "1951-02-19T12:00:00",
+            "Grade": "2",
+            "Latitude": 20.0,
+            "Longitude": 138.5,
+            "CentralPressure": "1010"
+        },
+        {
+            "Time": "1951-02-19T18:00:00",
+            "Grade": "2",
+            "Latitude": 23.0,
+            "Longitude": 142.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1951-02-20T00:00:00",
+            "Grade": "9",
+            "Latitude": 25.0,
+            "Longitude": 146.0,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1951-02-20T06:00:00",
+            "Grade": "9",
+            "Latitude": 27.6,
+            "Longitude": 150.6,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1951-02-20T12:00:00",
+            "Grade": "9",
+            "Latitude": 28.9,
+            "Longitude": 153.3,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1951-02-20T18:00:00",
+            "Grade": "9",
+            "Latitude": 31.3,
+            "Longitude": 157.5,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1951-02-21T00:00:00",
+            "Grade": "9",
+            "Latitude": 32.6,
+            "Longitude": 162.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1951-02-21T06:00:00",
+            "Grade": "6",
+            "Latitude": 33.9,
+            "Longitude": 166.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1951-02-21T12:00:00",
+            "Grade": "6",
+            "Latitude": 36.0,
+            "Longitude": 170.0,
+            "CentralPressure": "990"
+        }
+    ],
+    "FirstPointDate": "1951-02-19T06:00:00"
+}

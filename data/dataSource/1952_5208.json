@@ -1,0 +1,104 @@
+{
+    "International_number_ID": "5208",
+    "Data_lines": "13",
+    "International_number_ID_Replicate": "5208",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "JEANNE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1952-08-04T06:00:00",
+            "Grade": "2",
+            "Latitude": 15.8,
+            "Longitude": 139.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-08-04T12:00:00",
+            "Grade": "2",
+            "Latitude": 16.8,
+            "Longitude": 138.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-08-04T18:00:00",
+            "Grade": "9",
+            "Latitude": 18.0,
+            "Longitude": 137.4,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1952-08-05T00:00:00",
+            "Grade": "9",
+            "Latitude": 19.6,
+            "Longitude": 137.0,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1952-08-05T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.0,
+            "Longitude": 138.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-08-05T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.3,
+            "Longitude": 139.5,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-08-05T18:00:00",
+            "Grade": "9",
+            "Latitude": 23.0,
+            "Longitude": 141.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-08-06T00:00:00",
+            "Grade": "9",
+            "Latitude": 23.9,
+            "Longitude": 142.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-08-06T06:00:00",
+            "Grade": "9",
+            "Latitude": 25.2,
+            "Longitude": 142.4,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-08-06T12:00:00",
+            "Grade": "9",
+            "Latitude": 26.8,
+            "Longitude": 142.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1952-08-06T18:00:00",
+            "Grade": "9",
+            "Latitude": 29.0,
+            "Longitude": 141.4,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1952-08-07T00:00:00",
+            "Grade": "9",
+            "Latitude": 30.4,
+            "Longitude": 139.8,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-08-07T06:00:00",
+            "Grade": "9",
+            "Latitude": 31.8,
+            "Longitude": 138.0,
+            "CentralPressure": "994"
+        }
+    ],
+    "FirstPointDate": "1952-08-04T06:00:00"
+}

@@ -1,0 +1,160 @@
+{
+    "International_number_ID": "7614",
+    "Data_lines": "21",
+    "International_number_ID_Replicate": "7614",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "CLARA",
+    "Date": "19921021",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1976-08-02T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.8,
+            "Longitude": 118.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1976-08-02T06:00:00",
+            "Grade": "2",
+            "Latitude": 15.4,
+            "Longitude": 117.6,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1976-08-02T12:00:00",
+            "Grade": "2",
+            "Latitude": 15.8,
+            "Longitude": 117.4,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1976-08-02T18:00:00",
+            "Grade": "2",
+            "Latitude": 16.3,
+            "Longitude": 117.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1976-08-03T00:00:00",
+            "Grade": "2",
+            "Latitude": 16.5,
+            "Longitude": 116.5,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-08-03T06:00:00",
+            "Grade": "2",
+            "Latitude": 16.7,
+            "Longitude": 116.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-08-03T12:00:00",
+            "Grade": "2",
+            "Latitude": 17.4,
+            "Longitude": 115.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1976-08-03T18:00:00",
+            "Grade": "2",
+            "Latitude": 17.8,
+            "Longitude": 115.2,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1976-08-04T00:00:00",
+            "Grade": "2",
+            "Latitude": 18.5,
+            "Longitude": 115.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1976-08-04T06:00:00",
+            "Grade": "2",
+            "Latitude": 18.7,
+            "Longitude": 114.5,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-08-04T12:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 114.3,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-08-04T18:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 114.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-08-05T00:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 113.6,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-08-05T06:00:00",
+            "Grade": "2",
+            "Latitude": 19.4,
+            "Longitude": 113.4,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-08-05T12:00:00",
+            "Grade": "2",
+            "Latitude": 19.7,
+            "Longitude": 113.6,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1976-08-05T18:00:00",
+            "Grade": "2",
+            "Latitude": 20.0,
+            "Longitude": 114.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1976-08-06T00:00:00",
+            "Grade": "9",
+            "Latitude": 20.4,
+            "Longitude": 113.8,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-08-06T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.0,
+            "Longitude": 113.7,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-08-06T12:00:00",
+            "Grade": "9",
+            "Latitude": 21.7,
+            "Longitude": 113.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1976-08-06T18:00:00",
+            "Grade": "9",
+            "Latitude": 22.5,
+            "Longitude": 112.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1976-08-07T00:00:00",
+            "Grade": "9",
+            "Latitude": 22.5,
+            "Longitude": 110.5,
+            "CentralPressure": "998"
+        }
+    ],
+    "FirstPointDate": "1976-08-02T00:00:00"
+}

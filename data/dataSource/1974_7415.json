@@ -1,0 +1,111 @@
+{
+    "International_number_ID": "7415",
+    "Data_lines": "14",
+    "International_number_ID_Replicate": "7415",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "NADINE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1974-08-15T00:00:00",
+            "Grade": "2",
+            "Latitude": 16.5,
+            "Longitude": 127.2,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1974-08-15T06:00:00",
+            "Grade": "9",
+            "Latitude": 16.3,
+            "Longitude": 129.2,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1974-08-15T12:00:00",
+            "Grade": "9",
+            "Latitude": 16.0,
+            "Longitude": 131.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1974-08-15T18:00:00",
+            "Grade": "9",
+            "Latitude": 15.2,
+            "Longitude": 133.2,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1974-08-16T00:00:00",
+            "Grade": "9",
+            "Latitude": 15.8,
+            "Longitude": 135.7,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1974-08-16T06:00:00",
+            "Grade": "9",
+            "Latitude": 16.8,
+            "Longitude": 137.8,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1974-08-16T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.2,
+            "Longitude": 139.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1974-08-16T18:00:00",
+            "Grade": "9",
+            "Latitude": 19.4,
+            "Longitude": 140.7,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1974-08-17T00:00:00",
+            "Grade": "9",
+            "Latitude": 21.4,
+            "Longitude": 141.5,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1974-08-17T06:00:00",
+            "Grade": "9",
+            "Latitude": 23.5,
+            "Longitude": 141.7,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1974-08-17T12:00:00",
+            "Grade": "9",
+            "Latitude": 25.8,
+            "Longitude": 141.3,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1974-08-17T18:00:00",
+            "Grade": "9",
+            "Latitude": 27.9,
+            "Longitude": 141.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1974-08-18T00:00:00",
+            "Grade": "9",
+            "Latitude": 29.7,
+            "Longitude": 140.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1974-08-18T06:00:00",
+            "Grade": "2",
+            "Latitude": 31.0,
+            "Longitude": 139.7,
+            "CentralPressure": "1002"
+        }
+    ],
+    "FirstPointDate": "1974-08-15T00:00:00"
+}

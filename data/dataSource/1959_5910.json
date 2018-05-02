@@ -1,0 +1,97 @@
+{
+    "International_number_ID": "5910",
+    "Data_lines": "12",
+    "International_number_ID_Replicate": "5910",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "KATE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1959-08-24T18:00:00",
+            "Grade": "2",
+            "Latitude": 15.1,
+            "Longitude": 130.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1959-08-25T00:00:00",
+            "Grade": "2",
+            "Latitude": 15.0,
+            "Longitude": 129.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1959-08-25T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.9,
+            "Longitude": 128.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1959-08-25T12:00:00",
+            "Grade": "2",
+            "Latitude": 14.8,
+            "Longitude": 127.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1959-08-25T18:00:00",
+            "Grade": "2",
+            "Latitude": 14.7,
+            "Longitude": 126.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1959-08-26T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.5,
+            "Longitude": 125.1,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1959-08-26T06:00:00",
+            "Grade": "9",
+            "Latitude": 14.5,
+            "Longitude": 124.6,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1959-08-26T12:00:00",
+            "Grade": "9",
+            "Latitude": 14.7,
+            "Longitude": 124.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1959-08-26T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.9,
+            "Longitude": 123.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1959-08-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 15.2,
+            "Longitude": 123.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1959-08-27T06:00:00",
+            "Grade": "9",
+            "Latitude": 16.3,
+            "Longitude": 123.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1959-08-27T12:00:00",
+            "Grade": "2",
+            "Latitude": 17.1,
+            "Longitude": 123.8,
+            "CentralPressure": "1002"
+        }
+    ],
+    "FirstPointDate": "1959-08-24T18:00:00"
+}

@@ -1,0 +1,223 @@
+{
+    "International_number_ID": "7216",
+    "Data_lines": "30",
+    "International_number_ID_Replicate": "7216",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "DORIS",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1972-08-25T06:00:00",
+            "Grade": "2",
+            "Latitude": 26.1,
+            "Longitude": 162.6,
+            "CentralPressure": "1010"
+        },
+        {
+            "Time": "1972-08-25T12:00:00",
+            "Grade": "2",
+            "Latitude": 27.1,
+            "Longitude": 161.9,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1972-08-25T18:00:00",
+            "Grade": "2",
+            "Latitude": 27.9,
+            "Longitude": 160.9,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1972-08-26T00:00:00",
+            "Grade": "9",
+            "Latitude": 29.1,
+            "Longitude": 160.1,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1972-08-26T06:00:00",
+            "Grade": "9",
+            "Latitude": 29.6,
+            "Longitude": 160.2,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-08-26T12:00:00",
+            "Grade": "9",
+            "Latitude": 30.1,
+            "Longitude": 160.2,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1972-08-26T18:00:00",
+            "Grade": "9",
+            "Latitude": 30.6,
+            "Longitude": 160.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-08-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 31.2,
+            "Longitude": 160.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-08-27T06:00:00",
+            "Grade": "9",
+            "Latitude": 31.9,
+            "Longitude": 160.3,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-08-27T12:00:00",
+            "Grade": "9",
+            "Latitude": 32.8,
+            "Longitude": 160.5,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-08-27T18:00:00",
+            "Grade": "9",
+            "Latitude": 33.7,
+            "Longitude": 160.7,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-08-28T00:00:00",
+            "Grade": "9",
+            "Latitude": 34.6,
+            "Longitude": 161.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-08-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 35.6,
+            "Longitude": 161.6,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1972-08-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 36.8,
+            "Longitude": 161.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-08-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 38.0,
+            "Longitude": 162.2,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-08-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 39.6,
+            "Longitude": 162.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1972-08-29T06:00:00",
+            "Grade": "2",
+            "Latitude": 41.7,
+            "Longitude": 163.2,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-08-29T12:00:00",
+            "Grade": "6",
+            "Latitude": 44.0,
+            "Longitude": 160.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-08-29T18:00:00",
+            "Grade": "6",
+            "Latitude": 46.0,
+            "Longitude": 157.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-08-30T00:00:00",
+            "Grade": "6",
+            "Latitude": 49.0,
+            "Longitude": 156.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-08-30T06:00:00",
+            "Grade": "6",
+            "Latitude": 51.0,
+            "Longitude": 154.0,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1972-08-30T12:00:00",
+            "Grade": "6",
+            "Latitude": 54.0,
+            "Longitude": 153.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1972-08-30T18:00:00",
+            "Grade": "6",
+            "Latitude": 57.0,
+            "Longitude": 152.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1972-08-31T00:00:00",
+            "Grade": "6",
+            "Latitude": 58.9,
+            "Longitude": 151.1,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1972-08-31T06:00:00",
+            "Grade": "6",
+            "Latitude": 59.8,
+            "Longitude": 151.3,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1972-08-31T12:00:00",
+            "Grade": "6",
+            "Latitude": 60.2,
+            "Longitude": 152.0,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1972-08-31T18:00:00",
+            "Grade": "6",
+            "Latitude": 60.4,
+            "Longitude": 152.5,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1972-09-01T00:00:00",
+            "Grade": "6",
+            "Latitude": 60.7,
+            "Longitude": 153.1,
+            "CentralPressure": "992"
+        },
+        {
+            "Time": "1972-09-01T06:00:00",
+            "Grade": "6",
+            "Latitude": 61.0,
+            "Longitude": 154.2,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1972-09-01T12:00:00",
+            "Grade": "6",
+            "Latitude": 61.2,
+            "Longitude": 155.3,
+            "CentralPressure": "996"
+        }
+    ],
+    "FirstPointDate": "1972-08-25T06:00:00"
+}

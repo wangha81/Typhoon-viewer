@@ -1,0 +1,125 @@
+{
+    "International_number_ID": "6919",
+    "Data_lines": "16",
+    "International_number_ID_Replicate": "6919",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "MARIE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1969-12-18T00:00:00",
+            "Grade": "2",
+            "Latitude": 10.0,
+            "Longitude": 147.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1969-12-18T06:00:00",
+            "Grade": "2",
+            "Latitude": 10.6,
+            "Longitude": 146.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1969-12-18T12:00:00",
+            "Grade": "2",
+            "Latitude": 11.3,
+            "Longitude": 144.9,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1969-12-18T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.0,
+            "Longitude": 143.9,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1969-12-19T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.9,
+            "Longitude": 143.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1969-12-19T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.1,
+            "Longitude": 142.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1969-12-19T12:00:00",
+            "Grade": "2",
+            "Latitude": 15.3,
+            "Longitude": 141.8,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1969-12-19T18:00:00",
+            "Grade": "2",
+            "Latitude": 16.4,
+            "Longitude": 141.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1969-12-20T00:00:00",
+            "Grade": "9",
+            "Latitude": 17.2,
+            "Longitude": 141.5,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1969-12-20T06:00:00",
+            "Grade": "9",
+            "Latitude": 17.6,
+            "Longitude": 141.8,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1969-12-20T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.0,
+            "Longitude": 142.5,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1969-12-20T18:00:00",
+            "Grade": "9",
+            "Latitude": 18.4,
+            "Longitude": 144.0,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1969-12-21T00:00:00",
+            "Grade": "9",
+            "Latitude": 19.0,
+            "Longitude": 145.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1969-12-21T06:00:00",
+            "Grade": "2",
+            "Latitude": 19.3,
+            "Longitude": 146.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1969-12-21T12:00:00",
+            "Grade": "2",
+            "Latitude": 19.4,
+            "Longitude": 147.0,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1969-12-21T18:00:00",
+            "Grade": "2",
+            "Latitude": 19.5,
+            "Longitude": 148.0,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1969-12-18T00:00:00"
+}

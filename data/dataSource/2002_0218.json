@@ -1,0 +1,238 @@
+{
+    "International_number_ID": "0218",
+    "Data_lines": "25",
+    "Tropical_cyclone_number_ID": "0026",
+    "International_number_ID_Replicate": "0218",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "HAGUPIT",
+    "LastRevisionDate": "20060118",
+    "Type": "9",
+    "Route": [
+        {
+            "Time": "2002-09-09T18:00:00",
+            "Grade": "2",
+            "Latitude": 19.4,
+            "Longitude": 118.7,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-10T00:00:00",
+            "Grade": "2",
+            "Latitude": 19.5,
+            "Longitude": 118.0,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-10T06:00:00",
+            "Grade": "2",
+            "Latitude": 19.9,
+            "Longitude": 117.0,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-10T12:00:00",
+            "Grade": "2",
+            "Latitude": 20.1,
+            "Longitude": 116.2,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-10T18:00:00",
+            "Grade": "2",
+            "Latitude": 20.5,
+            "Longitude": 115.5,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-11T00:00:00",
+            "Grade": "3",
+            "Latitude": 20.6,
+            "Longitude": 114.2,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 70
+        },
+        {
+            "Time": "2002-09-11T06:00:00",
+            "Grade": "3",
+            "Latitude": 20.9,
+            "Longitude": 113.7,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 200,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "2002-09-11T12:00:00",
+            "Grade": "3",
+            "Latitude": 21.0,
+            "Longitude": 112.8,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 200,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "2002-09-11T18:00:00",
+            "Grade": "3",
+            "Latitude": 21.6,
+            "Longitude": 112.2,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 180,
+            "Shortest_radius_of_30kt": 70
+        },
+        {
+            "Time": "2002-09-12T00:00:00",
+            "Grade": "2",
+            "Latitude": 22.0,
+            "Longitude": 111.0,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-12T06:00:00",
+            "Grade": "2",
+            "Latitude": 22.4,
+            "Longitude": 110.3,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-12T12:00:00",
+            "Grade": "2",
+            "Latitude": 22.2,
+            "Longitude": 109.7,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-12T18:00:00",
+            "Grade": "2",
+            "Latitude": 22.0,
+            "Longitude": 109.4,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-13T00:00:00",
+            "Grade": "2",
+            "Latitude": 21.7,
+            "Longitude": 109.1,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-13T06:00:00",
+            "Grade": "2",
+            "Latitude": 21.7,
+            "Longitude": 109.1,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-13T12:00:00",
+            "Grade": "2",
+            "Latitude": 21.6,
+            "Longitude": 109.1,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-13T18:00:00",
+            "Grade": "2",
+            "Latitude": 21.6,
+            "Longitude": 109.1,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-14T00:00:00",
+            "Grade": "2",
+            "Latitude": 21.6,
+            "Longitude": 109.3,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-14T06:00:00",
+            "Grade": "2",
+            "Latitude": 21.3,
+            "Longitude": 109.8,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-14T12:00:00",
+            "Grade": "2",
+            "Latitude": 21.1,
+            "Longitude": 110.8,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-14T18:00:00",
+            "Grade": "2",
+            "Latitude": 21.2,
+            "Longitude": 111.4,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-15T00:00:00",
+            "Grade": "2",
+            "Latitude": 21.3,
+            "Longitude": 112.3,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-15T06:00:00",
+            "Grade": "2",
+            "Latitude": 21.4,
+            "Longitude": 112.7,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-15T12:00:00",
+            "Grade": "2",
+            "Latitude": 21.7,
+            "Longitude": 112.7,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-09-15T18:00:00",
+            "Grade": "2",
+            "Latitude": 21.7,
+            "Longitude": 112.5,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "2002-09-09T18:00:00"
+}

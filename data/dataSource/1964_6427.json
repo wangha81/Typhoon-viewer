@@ -1,0 +1,209 @@
+{
+    "International_number_ID": "6427",
+    "Data_lines": "28",
+    "International_number_ID_Replicate": "6427",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "HOPE",
+    "Date": "19901017",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1964-10-24T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.1,
+            "Longitude": 141.5,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1964-10-24T06:00:00",
+            "Grade": "2",
+            "Latitude": 14.7,
+            "Longitude": 141.4,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1964-10-24T12:00:00",
+            "Grade": "2",
+            "Latitude": 15.1,
+            "Longitude": 140.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1964-10-24T18:00:00",
+            "Grade": "2",
+            "Latitude": 15.5,
+            "Longitude": 139.3,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1964-10-25T00:00:00",
+            "Grade": "2",
+            "Latitude": 15.6,
+            "Longitude": 138.1,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1964-10-25T06:00:00",
+            "Grade": "2",
+            "Latitude": 15.9,
+            "Longitude": 137.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-10-25T12:00:00",
+            "Grade": "2",
+            "Latitude": 16.4,
+            "Longitude": 137.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-10-25T18:00:00",
+            "Grade": "2",
+            "Latitude": 16.7,
+            "Longitude": 136.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-10-26T00:00:00",
+            "Grade": "2",
+            "Latitude": 17.3,
+            "Longitude": 136.6,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-10-26T06:00:00",
+            "Grade": "2",
+            "Latitude": 17.8,
+            "Longitude": 136.4,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-10-26T12:00:00",
+            "Grade": "2",
+            "Latitude": 18.5,
+            "Longitude": 136.2,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1964-10-26T18:00:00",
+            "Grade": "9",
+            "Latitude": 19.4,
+            "Longitude": 135.8,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1964-10-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 20.7,
+            "Longitude": 135.8,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1964-10-27T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.0,
+            "Longitude": 136.0,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1964-10-27T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.0,
+            "Longitude": 136.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1964-10-27T18:00:00",
+            "Grade": "9",
+            "Latitude": 23.5,
+            "Longitude": 137.5,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1964-10-28T00:00:00",
+            "Grade": "9",
+            "Latitude": 24.5,
+            "Longitude": 138.5,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1964-10-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 26.5,
+            "Longitude": 139.8,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1964-10-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 28.2,
+            "Longitude": 141.7,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1964-10-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 29.7,
+            "Longitude": 143.5,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1964-10-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 31.0,
+            "Longitude": 145.8,
+            "CentralPressure": "980"
+        },
+        {
+            "Time": "1964-10-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 32.6,
+            "Longitude": 147.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1964-10-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 34.5,
+            "Longitude": 151.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1964-10-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 37.0,
+            "Longitude": 155.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1964-10-30T00:00:00",
+            "Grade": "2",
+            "Latitude": 38.6,
+            "Longitude": 160.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1964-10-30T06:00:00",
+            "Grade": "2",
+            "Latitude": 40.4,
+            "Longitude": 165.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1964-10-30T12:00:00",
+            "Grade": "2",
+            "Latitude": 42.0,
+            "Longitude": 170.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1964-10-30T18:00:00",
+            "Grade": "2",
+            "Latitude": 43.4,
+            "Longitude": 176.7,
+            "CentralPressure": "1006"
+        }
+    ],
+    "FirstPointDate": "1964-10-24T00:00:00"
+}

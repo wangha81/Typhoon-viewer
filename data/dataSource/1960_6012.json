@@ -1,0 +1,174 @@
+{
+    "International_number_ID": "6012",
+    "Data_lines": "23",
+    "International_number_ID_Replicate": "6012",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "WENDY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1960-08-10T06:00:00",
+            "Grade": "2",
+            "Latitude": 22.7,
+            "Longitude": 137.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1960-08-10T12:00:00",
+            "Grade": "9",
+            "Latitude": 23.7,
+            "Longitude": 137.5,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-10T18:00:00",
+            "Grade": "9",
+            "Latitude": 24.7,
+            "Longitude": 137.4,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-11T00:00:00",
+            "Grade": "9",
+            "Latitude": 25.7,
+            "Longitude": 137.1,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-11T06:00:00",
+            "Grade": "9",
+            "Latitude": 26.8,
+            "Longitude": 136.0,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-11T12:00:00",
+            "Grade": "9",
+            "Latitude": 27.9,
+            "Longitude": 134.9,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-11T18:00:00",
+            "Grade": "9",
+            "Latitude": 29.3,
+            "Longitude": 134.3,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-12T00:00:00",
+            "Grade": "9",
+            "Latitude": 31.0,
+            "Longitude": 134.3,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1960-08-12T06:00:00",
+            "Grade": "9",
+            "Latitude": 32.7,
+            "Longitude": 134.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1960-08-12T12:00:00",
+            "Grade": "9",
+            "Latitude": 34.2,
+            "Longitude": 134.3,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1960-08-12T18:00:00",
+            "Grade": "9",
+            "Latitude": 35.7,
+            "Longitude": 135.3,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1960-08-13T00:00:00",
+            "Grade": "9",
+            "Latitude": 37.5,
+            "Longitude": 137.8,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1960-08-13T06:00:00",
+            "Grade": "6",
+            "Latitude": 38.5,
+            "Longitude": 141.2,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1960-08-13T12:00:00",
+            "Grade": "6",
+            "Latitude": 40.1,
+            "Longitude": 146.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1960-08-13T18:00:00",
+            "Grade": "6",
+            "Latitude": 40.4,
+            "Longitude": 148.9,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1960-08-14T00:00:00",
+            "Grade": "6",
+            "Latitude": 41.0,
+            "Longitude": 152.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1960-08-14T06:00:00",
+            "Grade": "6",
+            "Latitude": 42.0,
+            "Longitude": 155.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1960-08-14T12:00:00",
+            "Grade": "6",
+            "Latitude": 42.0,
+            "Longitude": 159.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1960-08-14T18:00:00",
+            "Grade": "6",
+            "Latitude": 42.0,
+            "Longitude": 165.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1960-08-15T00:00:00",
+            "Grade": "6",
+            "Latitude": 42.9,
+            "Longitude": 172.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1960-08-15T06:00:00",
+            "Grade": "6",
+            "Latitude": 43.2,
+            "Longitude": 174.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1960-08-15T12:00:00",
+            "Grade": "6",
+            "Latitude": 43.9,
+            "Longitude": 176.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1960-08-15T18:00:00",
+            "Grade": "6",
+            "Latitude": 44.2,
+            "Longitude": 178.1,
+            "CentralPressure": "1006"
+        }
+    ],
+    "FirstPointDate": "1960-08-10T06:00:00"
+}

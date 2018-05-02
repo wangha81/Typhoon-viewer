@@ -1,0 +1,90 @@
+{
+    "International_number_ID": "5901",
+    "Data_lines": "11",
+    "International_number_ID_Replicate": "5901",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "RUBY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1959-02-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 8.8,
+            "Longitude": 139.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-27T06:00:00",
+            "Grade": "9",
+            "Latitude": 8.4,
+            "Longitude": 138.4,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-27T12:00:00",
+            "Grade": "9",
+            "Latitude": 8.1,
+            "Longitude": 137.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-27T18:00:00",
+            "Grade": "9",
+            "Latitude": 8.0,
+            "Longitude": 136.6,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-28T00:00:00",
+            "Grade": "9",
+            "Latitude": 8.2,
+            "Longitude": 135.7,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 8.7,
+            "Longitude": 134.8,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 8.3,
+            "Longitude": 133.5,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-02-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 8.0,
+            "Longitude": 132.3,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-03-01T00:00:00",
+            "Grade": "9",
+            "Latitude": 7.8,
+            "Longitude": 131.2,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1959-03-01T06:00:00",
+            "Grade": "2",
+            "Latitude": 7.1,
+            "Longitude": 130.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1959-03-01T12:00:00",
+            "Grade": "2",
+            "Latitude": 6.8,
+            "Longitude": 129.0,
+            "CentralPressure": "1000"
+        }
+    ],
+    "FirstPointDate": "1959-02-27T00:00:00"
+}

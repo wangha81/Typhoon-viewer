@@ -1,0 +1,146 @@
+{
+    "International_number_ID": "7431",
+    "Data_lines": "19",
+    "International_number_ID_Replicate": "7431",
+    "Flag": "0",
+    "DurationOfTimeUnit": "3",
+    "Name": "JUDY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1974-12-14T12:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 126.4,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-14T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 125.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1974-12-15T00:00:00",
+            "Grade": "2",
+            "Latitude": 11.2,
+            "Longitude": 124.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1974-12-15T06:00:00",
+            "Grade": "2",
+            "Latitude": 11.5,
+            "Longitude": 123.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1974-12-15T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.0,
+            "Longitude": 122.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1974-12-15T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 121.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1974-12-16T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.0,
+            "Longitude": 120.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1974-12-16T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.2,
+            "Longitude": 119.1,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-16T12:00:00",
+            "Grade": "2",
+            "Latitude": 13.5,
+            "Longitude": 118.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-16T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.6,
+            "Longitude": 117.4,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-17T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.8,
+            "Longitude": 116.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-17T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.9,
+            "Longitude": 115.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-17T12:00:00",
+            "Grade": "2",
+            "Latitude": 14.0,
+            "Longitude": 114.7,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-17T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.9,
+            "Longitude": 113.9,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-18T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.5,
+            "Longitude": 112.9,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1974-12-18T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.9,
+            "Longitude": 112.1,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1974-12-18T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 111.4,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1974-12-18T18:00:00",
+            "Grade": "9",
+            "Latitude": 12.2,
+            "Longitude": 110.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1974-12-19T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.0,
+            "Longitude": 110.1,
+            "CentralPressure": "1000"
+        }
+    ],
+    "FirstPointDate": "1974-12-14T12:00:00"
+}

@@ -1,0 +1,160 @@
+{
+    "International_number_ID": "5828",
+    "Data_lines": "21",
+    "International_number_ID_Replicate": "5828",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "NANCY",
+    "Date": "19901017",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1958-11-21T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.0,
+            "Longitude": 131.6,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1958-11-22T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.1,
+            "Longitude": 131.2,
+            "CentralPressure": "998"
+        },
+        {
+            "Time": "1958-11-22T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.4,
+            "Longitude": 130.5,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1958-11-22T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 130.2,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1958-11-22T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.2,
+            "Longitude": 129.8,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1958-11-23T00:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 129.2,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1958-11-23T06:00:00",
+            "Grade": "9",
+            "Latitude": 14.3,
+            "Longitude": 129.0,
+            "CentralPressure": "975"
+        },
+        {
+            "Time": "1958-11-23T12:00:00",
+            "Grade": "9",
+            "Latitude": 15.0,
+            "Longitude": 128.3,
+            "CentralPressure": "960"
+        },
+        {
+            "Time": "1958-11-23T18:00:00",
+            "Grade": "9",
+            "Latitude": 16.0,
+            "Longitude": 128.5,
+            "CentralPressure": "950"
+        },
+        {
+            "Time": "1958-11-24T00:00:00",
+            "Grade": "9",
+            "Latitude": 16.7,
+            "Longitude": 128.8,
+            "CentralPressure": "935"
+        },
+        {
+            "Time": "1958-11-24T06:00:00",
+            "Grade": "9",
+            "Latitude": 17.6,
+            "Longitude": 129.4,
+            "CentralPressure": "925"
+        },
+        {
+            "Time": "1958-11-24T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.3,
+            "Longitude": 129.8,
+            "CentralPressure": "920"
+        },
+        {
+            "Time": "1958-11-24T18:00:00",
+            "Grade": "9",
+            "Latitude": 19.3,
+            "Longitude": 130.5,
+            "CentralPressure": "930"
+        },
+        {
+            "Time": "1958-11-25T00:00:00",
+            "Grade": "9",
+            "Latitude": 20.2,
+            "Longitude": 131.2,
+            "CentralPressure": "945"
+        },
+        {
+            "Time": "1958-11-25T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.1,
+            "Longitude": 132.0,
+            "CentralPressure": "945"
+        },
+        {
+            "Time": "1958-11-25T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.1,
+            "Longitude": 133.2,
+            "CentralPressure": "950"
+        },
+        {
+            "Time": "1958-11-25T18:00:00",
+            "Grade": "9",
+            "Latitude": 22.8,
+            "Longitude": 134.5,
+            "CentralPressure": "970"
+        },
+        {
+            "Time": "1958-11-26T00:00:00",
+            "Grade": "9",
+            "Latitude": 23.3,
+            "Longitude": 135.6,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1958-11-26T06:00:00",
+            "Grade": "9",
+            "Latitude": 23.7,
+            "Longitude": 137.2,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1958-11-26T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.0,
+            "Longitude": 139.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1958-11-26T18:00:00",
+            "Grade": "9",
+            "Latitude": 22.0,
+            "Longitude": 141.5,
+            "CentralPressure": "1002"
+        }
+    ],
+    "FirstPointDate": "1958-11-21T18:00:00"
+}

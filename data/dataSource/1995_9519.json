@@ -1,0 +1,194 @@
+{
+    "International_number_ID": "9519",
+    "Data_lines": "18",
+    "Tropical_cyclone_number_ID": "0021",
+    "International_number_ID_Replicate": "9519",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "YVETTE",
+    "LastRevisionDate": "19960119",
+    "Type": "9",
+    "Route": [
+        {
+            "Time": "1995-10-22T18:00:00",
+            "Grade": "2",
+            "Latitude": 10.5,
+            "Longitude": 131.0,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-23T00:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 129.0,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-23T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.3,
+            "Longitude": 127.0,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-23T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 124.5,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-23T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 122.5,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-24T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.2,
+            "Longitude": 120.4,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-24T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.3,
+            "Longitude": 119.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-24T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 118.1,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-24T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.0,
+            "Longitude": 116.5,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-25T00:00:00",
+            "Grade": "3",
+            "Latitude": 13.4,
+            "Longitude": 114.8,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1995-10-25T06:00:00",
+            "Grade": "3",
+            "Latitude": 13.5,
+            "Longitude": 113.2,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1995-10-25T12:00:00",
+            "Grade": "3",
+            "Latitude": 13.5,
+            "Longitude": 112.2,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1995-10-25T18:00:00",
+            "Grade": "3",
+            "Latitude": 13.4,
+            "Longitude": 110.9,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 140,
+            "Shortest_radius_of_30kt": 140
+        },
+        {
+            "Time": "1995-10-26T00:00:00",
+            "Grade": "4",
+            "Latitude": 13.3,
+            "Longitude": 109.9,
+            "CentralPressure": "985",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "9",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "2",
+            "Longest_radius_of_30kt": 160,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1995-10-26T06:00:00",
+            "Grade": "3",
+            "Latitude": 13.4,
+            "Longitude": 108.7,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "1995-10-26T12:00:00",
+            "Grade": "2",
+            "Latitude": 13.5,
+            "Longitude": 107.5,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-26T18:00:00",
+            "Grade": "2",
+            "Latitude": 13.5,
+            "Longitude": 106.2,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1995-10-27T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.5,
+            "Longitude": 105.0,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "1995-10-22T18:00:00"
+}

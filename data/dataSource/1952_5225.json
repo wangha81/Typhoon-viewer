@@ -1,0 +1,209 @@
+{
+    "International_number_ID": "5225",
+    "Data_lines": "28",
+    "International_number_ID_Replicate": "5225",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "FAYE",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1952-12-13T06:00:00",
+            "Grade": "2",
+            "Latitude": 7.5,
+            "Longitude": 129.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-12-13T12:00:00",
+            "Grade": "2",
+            "Latitude": 9.9,
+            "Longitude": 127.9,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-12-13T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.8,
+            "Longitude": 127.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-14T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.0,
+            "Longitude": 125.9,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1952-12-14T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.6,
+            "Longitude": 124.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-14T12:00:00",
+            "Grade": "2",
+            "Latitude": 11.9,
+            "Longitude": 123.6,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1952-12-14T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 123.0,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1952-12-15T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.3,
+            "Longitude": 122.2,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1952-12-15T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.0,
+            "Longitude": 120.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-15T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.7,
+            "Longitude": 119.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-15T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 118.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-16T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 116.7,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-16T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 116.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-16T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 115.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1952-12-16T18:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 114.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-12-17T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.9,
+            "Longitude": 113.2,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1952-12-17T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.7,
+            "Longitude": 112.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1952-12-17T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.6,
+            "Longitude": 112.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1952-12-17T18:00:00",
+            "Grade": "9",
+            "Latitude": 12.6,
+            "Longitude": 113.1,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1952-12-18T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 113.2,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1952-12-18T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.9,
+            "Longitude": 112.8,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-12-18T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.9,
+            "Longitude": 112.3,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-12-18T18:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 112.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1952-12-19T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 111.6,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1952-12-19T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 111.3,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1952-12-19T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 111.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1952-12-19T18:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 110.6,
+            "CentralPressure": "1005"
+        },
+        {
+            "Time": "1952-12-20T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 110.2,
+            "CentralPressure": "1010"
+        }
+    ],
+    "FirstPointDate": "1952-12-13T06:00:00"
+}

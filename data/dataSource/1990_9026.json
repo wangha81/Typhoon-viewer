@@ -1,0 +1,145 @@
+{
+    "International_number_ID": "9026",
+    "Data_lines": "12",
+    "International_number_ID_Replicate": "9026",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "NELL",
+    "Date": "19921021",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1990-11-09T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 114.9,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1990-11-10T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 114.3,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1990-11-10T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 113.8,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1990-11-10T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.8,
+            "Longitude": 113.3,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1990-11-10T18:00:00",
+            "Grade": "3",
+            "Latitude": 12.8,
+            "Longitude": 112.7,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1990-11-11T00:00:00",
+            "Grade": "3",
+            "Latitude": 12.7,
+            "Longitude": 112.4,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1990-11-11T06:00:00",
+            "Grade": "4",
+            "Latitude": 12.7,
+            "Longitude": 112.0,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "8",
+            "Longest_radius_of_30kt": 250,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1990-11-11T12:00:00",
+            "Grade": "4",
+            "Latitude": 12.7,
+            "Longitude": 111.4,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "8",
+            "Longest_radius_of_30kt": 250,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1990-11-11T18:00:00",
+            "Grade": "3",
+            "Latitude": 12.6,
+            "Longitude": 110.6,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "8",
+            "Longest_radius_of_30kt": 300,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "1990-11-12T00:00:00",
+            "Grade": "3",
+            "Latitude": 12.5,
+            "Longitude": 109.8,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 200,
+            "Shortest_radius_of_30kt": 200
+        },
+        {
+            "Time": "1990-11-12T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 108.5,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1990-11-12T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 106.8,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "1990-11-09T18:00:00"
+}

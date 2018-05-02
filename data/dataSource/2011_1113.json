@@ -1,0 +1,326 @@
+{
+    "International_number_ID": "1113",
+    "Data_lines": "030",
+    "Tropical_cyclone_number_ID": "0019",
+    "International_number_ID_Replicate": "1113",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "NORU",
+    "LastRevisionDate": "20111026",
+    "Type": "9",
+    "Route": [
+        {
+            "Time": "2011-09-02T00:00:00",
+            "Grade": "2",
+            "Latitude": 21.3,
+            "Longitude": 149.8,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-02T06:00:00",
+            "Grade": "2",
+            "Latitude": 20.9,
+            "Longitude": 149.0,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-02T12:00:00",
+            "Grade": "2",
+            "Latitude": 20.2,
+            "Longitude": 148.3,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-02T18:00:00",
+            "Grade": "2",
+            "Latitude": 19.7,
+            "Longitude": 147.8,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-03T00:00:00",
+            "Grade": "2",
+            "Latitude": 19.8,
+            "Longitude": 148.2,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-03T06:00:00",
+            "Grade": "2",
+            "Latitude": 20.6,
+            "Longitude": 149.3,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-03T12:00:00",
+            "Grade": "3",
+            "Latitude": 22.2,
+            "Longitude": 150.3,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 180,
+            "Shortest_radius_of_30kt": 110
+        },
+        {
+            "Time": "2011-09-03T18:00:00",
+            "Grade": "3",
+            "Latitude": 24.7,
+            "Longitude": 151.4,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "2",
+            "Longest_radius_of_30kt": 200,
+            "Shortest_radius_of_30kt": 110
+        },
+        {
+            "Time": "2011-09-04T00:00:00",
+            "Grade": "3",
+            "Latitude": 27.5,
+            "Longitude": 151.4,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 250,
+            "Shortest_radius_of_30kt": 130
+        },
+        {
+            "Time": "2011-09-04T06:00:00",
+            "Grade": "3",
+            "Latitude": 29.4,
+            "Longitude": 150.8,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 250,
+            "Shortest_radius_of_30kt": 130
+        },
+        {
+            "Time": "2011-09-04T12:00:00",
+            "Grade": "3",
+            "Latitude": 30.8,
+            "Longitude": 150.1,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 270,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "2011-09-04T18:00:00",
+            "Grade": "3",
+            "Latitude": 32.2,
+            "Longitude": 149.6,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 270,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "2011-09-05T00:00:00",
+            "Grade": "3",
+            "Latitude": 33.4,
+            "Longitude": 149.6,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 270,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "2011-09-05T06:00:00",
+            "Grade": "3",
+            "Latitude": 35.1,
+            "Longitude": 150.0,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 300,
+            "Shortest_radius_of_30kt": 150
+        },
+        {
+            "Time": "2011-09-05T12:00:00",
+            "Grade": "3",
+            "Latitude": 36.5,
+            "Longitude": 148.5,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "2",
+            "Longest_radius_of_30kt": 300,
+            "Shortest_radius_of_30kt": 200
+        },
+        {
+            "Time": "2011-09-05T18:00:00",
+            "Grade": "3",
+            "Latitude": 36.8,
+            "Longitude": 148.4,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "2",
+            "Longest_radius_of_30kt": 300,
+            "Shortest_radius_of_30kt": 200
+        },
+        {
+            "Time": "2011-09-06T00:00:00",
+            "Grade": "3",
+            "Latitude": 37.9,
+            "Longitude": 149.4,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "2",
+            "Longest_radius_of_30kt": 300,
+            "Shortest_radius_of_30kt": 180
+        },
+        {
+            "Time": "2011-09-06T06:00:00",
+            "Grade": "3",
+            "Latitude": 39.4,
+            "Longitude": 150.1,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "2",
+            "Longest_radius_of_30kt": 300,
+            "Shortest_radius_of_30kt": 180
+        },
+        {
+            "Time": "2011-09-06T12:00:00",
+            "Grade": "6",
+            "Latitude": 41.4,
+            "Longitude": 150.8,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-06T18:00:00",
+            "Grade": "6",
+            "Latitude": 43.8,
+            "Longitude": 148.9,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-07T00:00:00",
+            "Grade": "6",
+            "Latitude": 46.2,
+            "Longitude": 149.3,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-07T06:00:00",
+            "Grade": "6",
+            "Latitude": 49.6,
+            "Longitude": 145.2,
+            "CentralPressure": "988",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-07T12:00:00",
+            "Grade": "6",
+            "Latitude": 51.5,
+            "Longitude": 141.4,
+            "CentralPressure": "986",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-07T18:00:00",
+            "Grade": "6",
+            "Latitude": 53.1,
+            "Longitude": 141.2,
+            "CentralPressure": "984",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-08T00:00:00",
+            "Grade": "6",
+            "Latitude": 54.8,
+            "Longitude": 141.0,
+            "CentralPressure": "984",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-08T06:00:00",
+            "Grade": "6",
+            "Latitude": 55.9,
+            "Longitude": 141.3,
+            "CentralPressure": "984",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-08T12:00:00",
+            "Grade": "6",
+            "Latitude": 57.0,
+            "Longitude": 141.8,
+            "CentralPressure": "986",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-08T18:00:00",
+            "Grade": "6",
+            "Latitude": 58.2,
+            "Longitude": 142.5,
+            "CentralPressure": "986",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-09T00:00:00",
+            "Grade": "6",
+            "Latitude": 59.2,
+            "Longitude": 142.7,
+            "CentralPressure": "982",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2011-09-09T06:00:00",
+            "Grade": "6",
+            "Latitude": 61.5,
+            "Longitude": 141.6,
+            "CentralPressure": "984",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "2011-09-02T00:00:00"
+}

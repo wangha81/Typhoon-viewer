@@ -1,0 +1,125 @@
+{
+    "International_number_ID": "7007",
+    "Data_lines": "16",
+    "International_number_ID_Replicate": "7007",
+    "Flag": "1",
+    "DurationOfTimeUnit": "6",
+    "Name": "THERESE",
+    "Date": "19920127",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1970-08-01T00:00:00",
+            "Grade": "2",
+            "Latitude": 26.4,
+            "Longitude": 172.5,
+            "CentralPressure": "1014"
+        },
+        {
+            "Time": "1970-08-01T06:00:00",
+            "Grade": "2",
+            "Latitude": 27.0,
+            "Longitude": 172.0,
+            "CentralPressure": "1010"
+        },
+        {
+            "Time": "1970-08-01T12:00:00",
+            "Grade": "2",
+            "Latitude": 27.5,
+            "Longitude": 171.7,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1970-08-01T18:00:00",
+            "Grade": "9",
+            "Latitude": 28.2,
+            "Longitude": 171.1,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-08-02T00:00:00",
+            "Grade": "9",
+            "Latitude": 29.2,
+            "Longitude": 170.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-08-02T06:00:00",
+            "Grade": "9",
+            "Latitude": 30.5,
+            "Longitude": 169.5,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1970-08-02T12:00:00",
+            "Grade": "9",
+            "Latitude": 31.8,
+            "Longitude": 168.4,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1970-08-02T18:00:00",
+            "Grade": "9",
+            "Latitude": 33.5,
+            "Longitude": 166.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-08-03T00:00:00",
+            "Grade": "9",
+            "Latitude": 35.4,
+            "Longitude": 165.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-08-03T06:00:00",
+            "Grade": "9",
+            "Latitude": 37.5,
+            "Longitude": 166.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1970-08-03T12:00:00",
+            "Grade": "9",
+            "Latitude": 39.0,
+            "Longitude": 165.6,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1970-08-03T18:00:00",
+            "Grade": "9",
+            "Latitude": 42.5,
+            "Longitude": 165.6,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-08-04T00:00:00",
+            "Grade": "2",
+            "Latitude": 46.0,
+            "Longitude": 166.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-08-04T06:00:00",
+            "Grade": "2",
+            "Latitude": 50.0,
+            "Longitude": 169.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-08-04T12:00:00",
+            "Grade": "6",
+            "Latitude": 53.0,
+            "Longitude": 172.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1970-08-04T18:00:00",
+            "Grade": "6",
+            "Latitude": 56.0,
+            "Longitude": 180.0,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1970-08-01T00:00:00"
+}

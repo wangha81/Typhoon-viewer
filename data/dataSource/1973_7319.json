@@ -1,0 +1,90 @@
+{
+    "International_number_ID": "7319",
+    "Data_lines": "11",
+    "International_number_ID_Replicate": "7319",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "SARAH",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1973-11-09T12:00:00",
+            "Grade": "2",
+            "Latitude": 11.6,
+            "Longitude": 113.4,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1973-11-09T18:00:00",
+            "Grade": "2",
+            "Latitude": 11.8,
+            "Longitude": 112.3,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1973-11-10T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.2,
+            "Longitude": 111.3,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1973-11-10T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.2,
+            "Longitude": 110.3,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1973-11-10T12:00:00",
+            "Grade": "9",
+            "Latitude": 12.2,
+            "Longitude": 109.3,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1973-11-10T18:00:00",
+            "Grade": "9",
+            "Latitude": 12.3,
+            "Longitude": 108.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1973-11-11T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.3,
+            "Longitude": 108.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1973-11-11T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.3,
+            "Longitude": 106.5,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1973-11-11T12:00:00",
+            "Grade": "2",
+            "Latitude": 12.4,
+            "Longitude": 105.1,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1973-11-11T18:00:00",
+            "Grade": "2",
+            "Latitude": 12.4,
+            "Longitude": 104.2,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1973-11-12T00:00:00",
+            "Grade": "6",
+            "Latitude": 12.0,
+            "Longitude": 103.0,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1973-11-09T12:00:00"
+}

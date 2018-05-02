@@ -1,0 +1,223 @@
+{
+    "International_number_ID": "5706",
+    "Data_lines": "30",
+    "International_number_ID_Replicate": "5706",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "WENDY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1957-07-10T18:00:00",
+            "Grade": "2",
+            "Latitude": 7.0,
+            "Longitude": 141.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1957-07-11T00:00:00",
+            "Grade": "2",
+            "Latitude": 8.0,
+            "Longitude": 140.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1957-07-11T06:00:00",
+            "Grade": "2",
+            "Latitude": 9.0,
+            "Longitude": 139.0,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1957-07-11T12:00:00",
+            "Grade": "2",
+            "Latitude": 9.2,
+            "Longitude": 137.7,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1957-07-11T18:00:00",
+            "Grade": "2",
+            "Latitude": 10.0,
+            "Longitude": 136.0,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-07-12T00:00:00",
+            "Grade": "2",
+            "Latitude": 10.6,
+            "Longitude": 134.6,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-07-12T06:00:00",
+            "Grade": "2",
+            "Latitude": 11.0,
+            "Longitude": 133.2,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-07-12T12:00:00",
+            "Grade": "2",
+            "Latitude": 11.3,
+            "Longitude": 131.8,
+            "CentralPressure": "1002"
+        },
+        {
+            "Time": "1957-07-12T18:00:00",
+            "Grade": "9",
+            "Latitude": 11.8,
+            "Longitude": 130.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1957-07-13T00:00:00",
+            "Grade": "9",
+            "Latitude": 12.2,
+            "Longitude": 129.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-07-13T06:00:00",
+            "Grade": "9",
+            "Latitude": 12.8,
+            "Longitude": 128.2,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-07-13T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.1,
+            "Longitude": 127.4,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-07-13T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.1,
+            "Longitude": 126.2,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-07-14T00:00:00",
+            "Grade": "9",
+            "Latitude": 15.3,
+            "Longitude": 125.4,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-07-14T06:00:00",
+            "Grade": "9",
+            "Latitude": 16.2,
+            "Longitude": 123.7,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-07-14T12:00:00",
+            "Grade": "9",
+            "Latitude": 17.1,
+            "Longitude": 122.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-07-14T18:00:00",
+            "Grade": "9",
+            "Latitude": 17.6,
+            "Longitude": 121.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-07-15T00:00:00",
+            "Grade": "9",
+            "Latitude": 18.1,
+            "Longitude": 120.0,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-07-15T06:00:00",
+            "Grade": "9",
+            "Latitude": 18.4,
+            "Longitude": 119.2,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-07-15T12:00:00",
+            "Grade": "9",
+            "Latitude": 18.8,
+            "Longitude": 118.1,
+            "CentralPressure": "985"
+        },
+        {
+            "Time": "1957-07-15T18:00:00",
+            "Grade": "9",
+            "Latitude": 19.3,
+            "Longitude": 117.2,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1957-07-16T00:00:00",
+            "Grade": "9",
+            "Latitude": 20.1,
+            "Longitude": 116.7,
+            "CentralPressure": "988"
+        },
+        {
+            "Time": "1957-07-16T06:00:00",
+            "Grade": "9",
+            "Latitude": 21.5,
+            "Longitude": 115.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1957-07-16T12:00:00",
+            "Grade": "9",
+            "Latitude": 22.8,
+            "Longitude": 114.8,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1957-07-16T18:00:00",
+            "Grade": "9",
+            "Latitude": 23.2,
+            "Longitude": 113.5,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1957-07-17T00:00:00",
+            "Grade": "9",
+            "Latitude": 24.0,
+            "Longitude": 112.0,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1957-07-17T06:00:00",
+            "Grade": "2",
+            "Latitude": 25.2,
+            "Longitude": 110.0,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1957-07-17T12:00:00",
+            "Grade": "2",
+            "Latitude": 26.2,
+            "Longitude": 108.0,
+            "CentralPressure": "994"
+        },
+        {
+            "Time": "1957-07-17T18:00:00",
+            "Grade": "2",
+            "Latitude": 28.0,
+            "Longitude": 105.2,
+            "CentralPressure": "996"
+        },
+        {
+            "Time": "1957-07-18T00:00:00",
+            "Grade": "2",
+            "Latitude": 28.5,
+            "Longitude": 106.0,
+            "CentralPressure": "996"
+        }
+    ],
+    "FirstPointDate": "1957-07-10T18:00:00"
+}

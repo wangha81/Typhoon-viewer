@@ -1,0 +1,62 @@
+{
+    "International_number_ID": "5617",
+    "Data_lines": "7",
+    "International_number_ID_Replicate": "5617",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "IVY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1956-09-26T00:00:00",
+            "Grade": "9",
+            "Latitude": 26.0,
+            "Longitude": 146.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1956-09-26T06:00:00",
+            "Grade": "9",
+            "Latitude": 26.8,
+            "Longitude": 145.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-26T12:00:00",
+            "Grade": "9",
+            "Latitude": 28.0,
+            "Longitude": 144.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-26T18:00:00",
+            "Grade": "9",
+            "Latitude": 29.5,
+            "Longitude": 143.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1956-09-27T00:00:00",
+            "Grade": "9",
+            "Latitude": 31.1,
+            "Longitude": 143.5,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1956-09-27T06:00:00",
+            "Grade": "9",
+            "Latitude": 33.0,
+            "Longitude": 143.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1956-09-27T12:00:00",
+            "Grade": "9",
+            "Latitude": 35.0,
+            "Longitude": 143.2,
+            "CentralPressure": "1000"
+        }
+    ],
+    "FirstPointDate": "1956-09-26T00:00:00"
+}

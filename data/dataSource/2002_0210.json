@@ -1,0 +1,72 @@
+{
+    "International_number_ID": "0210",
+    "Data_lines": "5",
+    "Tropical_cyclone_number_ID": "0017",
+    "International_number_ID_Replicate": "0210",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "KALMAEGI",
+    "LastRevisionDate": "20131122",
+    "Type": "9",
+    "Route": [
+        {
+            "Time": "2002-07-20T06:00:00",
+            "Grade": "7",
+            "Latitude": 16.1,
+            "Longitude": 180.4,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2002-07-20T12:00:00",
+            "Grade": "3",
+            "Latitude": 15.8,
+            "Longitude": 179.5,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "8",
+            "Longest_radius_of_30kt": 140,
+            "Shortest_radius_of_30kt": 20
+        },
+        {
+            "Time": "2002-07-20T18:00:00",
+            "Grade": "3",
+            "Latitude": 16.5,
+            "Longitude": 178.6,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "8",
+            "Longest_radius_of_30kt": 140,
+            "Shortest_radius_of_30kt": 20
+        },
+        {
+            "Time": "2002-07-21T00:00:00",
+            "Grade": "3",
+            "Latitude": 17.7,
+            "Longitude": 178.0,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 140,
+            "Shortest_radius_of_30kt": 20
+        },
+        {
+            "Time": "2002-07-21T06:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 177.0,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "2002-07-20T06:00:00"
+}

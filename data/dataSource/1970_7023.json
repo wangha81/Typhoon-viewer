@@ -1,0 +1,111 @@
+{
+    "International_number_ID": "7023",
+    "Data_lines": "14",
+    "International_number_ID_Replicate": "7023",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "NORA",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1970-11-01T00:00:00",
+            "Grade": "2",
+            "Latitude": 9.5,
+            "Longitude": 111.5,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1970-11-01T06:00:00",
+            "Grade": "2",
+            "Latitude": 9.0,
+            "Longitude": 111.0,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1970-11-01T12:00:00",
+            "Grade": "2",
+            "Latitude": 8.7,
+            "Longitude": 110.2,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-11-01T18:00:00",
+            "Grade": "2",
+            "Latitude": 8.2,
+            "Longitude": 109.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-02T00:00:00",
+            "Grade": "2",
+            "Latitude": 8.1,
+            "Longitude": 108.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-02T06:00:00",
+            "Grade": "9",
+            "Latitude": 7.9,
+            "Longitude": 106.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-02T12:00:00",
+            "Grade": "9",
+            "Latitude": 7.8,
+            "Longitude": 106.1,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-02T18:00:00",
+            "Grade": "9",
+            "Latitude": 7.8,
+            "Longitude": 105.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-03T00:00:00",
+            "Grade": "9",
+            "Latitude": 7.8,
+            "Longitude": 104.8,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-03T06:00:00",
+            "Grade": "2",
+            "Latitude": 7.9,
+            "Longitude": 104.4,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1970-11-03T12:00:00",
+            "Grade": "2",
+            "Latitude": 8.0,
+            "Longitude": 103.6,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-11-03T18:00:00",
+            "Grade": "2",
+            "Latitude": 8.1,
+            "Longitude": 103.1,
+            "CentralPressure": "1004"
+        },
+        {
+            "Time": "1970-11-04T00:00:00",
+            "Grade": "2",
+            "Latitude": 8.2,
+            "Longitude": 102.6,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1970-11-04T06:00:00",
+            "Grade": "2",
+            "Latitude": 8.2,
+            "Longitude": 102.0,
+            "CentralPressure": "1008"
+        }
+    ],
+    "FirstPointDate": "1970-11-01T00:00:00"
+}

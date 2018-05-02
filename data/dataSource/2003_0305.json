@@ -1,0 +1,354 @@
+{
+    "International_number_ID": "0305",
+    "Data_lines": "35",
+    "Tropical_cyclone_number_ID": "0006",
+    "International_number_ID_Replicate": "0305",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "NANGKA",
+    "LastRevisionDate": "20040217",
+    "Type": "9",
+    "Route": [
+        {
+            "Time": "2003-05-30T00:00:00",
+            "Grade": "2",
+            "Latitude": 16.8,
+            "Longitude": 118.8,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-30T06:00:00",
+            "Grade": "2",
+            "Latitude": 16.7,
+            "Longitude": 118.5,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-30T12:00:00",
+            "Grade": "2",
+            "Latitude": 16.6,
+            "Longitude": 118.0,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-30T18:00:00",
+            "Grade": "2",
+            "Latitude": 16.5,
+            "Longitude": 117.6,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-31T00:00:00",
+            "Grade": "2",
+            "Latitude": 16.7,
+            "Longitude": 117.2,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-31T06:00:00",
+            "Grade": "2",
+            "Latitude": 16.8,
+            "Longitude": 117.0,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-31T12:00:00",
+            "Grade": "2",
+            "Latitude": 16.9,
+            "Longitude": 116.7,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-05-31T18:00:00",
+            "Grade": "2",
+            "Latitude": 17.1,
+            "Longitude": 116.5,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-01T00:00:00",
+            "Grade": "3",
+            "Latitude": 17.4,
+            "Longitude": 117.6,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 80,
+            "Shortest_radius_of_30kt": 60
+        },
+        {
+            "Time": "2003-06-01T06:00:00",
+            "Grade": "3",
+            "Latitude": 17.8,
+            "Longitude": 117.9,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 80
+        },
+        {
+            "Time": "2003-06-01T12:00:00",
+            "Grade": "3",
+            "Latitude": 18.4,
+            "Longitude": 118.2,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 170,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "2003-06-01T18:00:00",
+            "Grade": "4",
+            "Latitude": 19.5,
+            "Longitude": 118.7,
+            "CentralPressure": "985",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 170,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "2003-06-02T00:00:00",
+            "Grade": "4",
+            "Latitude": 20.5,
+            "Longitude": 119.2,
+            "CentralPressure": "985",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "2003-06-02T06:00:00",
+            "Grade": "4",
+            "Latitude": 20.7,
+            "Longitude": 119.8,
+            "CentralPressure": "985",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "2003-06-02T12:00:00",
+            "Grade": "4",
+            "Latitude": 21.3,
+            "Longitude": 121.6,
+            "CentralPressure": "990",
+            "Maximum_sustained_wind_speed": "050",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "1",
+            "Longest_radius_of_30kt": 150,
+            "Shortest_radius_of_30kt": 80
+        },
+        {
+            "Time": "2003-06-02T18:00:00",
+            "Grade": "3",
+            "Latitude": 22.3,
+            "Longitude": 123.3,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 130,
+            "Shortest_radius_of_30kt": 80
+        },
+        {
+            "Time": "2003-06-03T00:00:00",
+            "Grade": "3",
+            "Latitude": 22.7,
+            "Longitude": 124.9,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "040",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 120,
+            "Shortest_radius_of_30kt": 80
+        },
+        {
+            "Time": "2003-06-03T06:00:00",
+            "Grade": "3",
+            "Latitude": 23.7,
+            "Longitude": 127.5,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "4",
+            "Longest_radius_of_30kt": 100,
+            "Shortest_radius_of_30kt": 60
+        },
+        {
+            "Time": "2003-06-03T12:00:00",
+            "Grade": "2",
+            "Latitude": 25.7,
+            "Longitude": 130.4,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-03T18:00:00",
+            "Grade": "2",
+            "Latitude": 27.6,
+            "Longitude": 132.5,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-04T00:00:00",
+            "Grade": "6",
+            "Latitude": 29.1,
+            "Longitude": 135.5,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-04T06:00:00",
+            "Grade": "6",
+            "Latitude": 30.3,
+            "Longitude": 136.9,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-04T12:00:00",
+            "Grade": "6",
+            "Latitude": 31.5,
+            "Longitude": 139.4,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-04T18:00:00",
+            "Grade": "6",
+            "Latitude": 33.1,
+            "Longitude": 141.8,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-05T00:00:00",
+            "Grade": "6",
+            "Latitude": 35.3,
+            "Longitude": 144.9,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-05T06:00:00",
+            "Grade": "6",
+            "Latitude": 36.2,
+            "Longitude": 146.2,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-05T12:00:00",
+            "Grade": "6",
+            "Latitude": 37.8,
+            "Longitude": 149.0,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-05T18:00:00",
+            "Grade": "6",
+            "Latitude": 38.4,
+            "Longitude": 151.2,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-06T00:00:00",
+            "Grade": "6",
+            "Latitude": 39.5,
+            "Longitude": 152.9,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-06T06:00:00",
+            "Grade": "6",
+            "Latitude": 39.9,
+            "Longitude": 154.2,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-06T12:00:00",
+            "Grade": "6",
+            "Latitude": 40.3,
+            "Longitude": 155.9,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-06T18:00:00",
+            "Grade": "6",
+            "Latitude": 40.3,
+            "Longitude": 157.0,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-07T00:00:00",
+            "Grade": "6",
+            "Latitude": 40.2,
+            "Longitude": 158.4,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-07T06:00:00",
+            "Grade": "6",
+            "Latitude": 40.1,
+            "Longitude": 159.9,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2003-06-07T12:00:00",
+            "Grade": "6",
+            "Latitude": 40.3,
+            "Longitude": 162.6,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "2003-05-30T00:00:00"
+}

@@ -1,0 +1,272 @@
+{
+    "International_number_ID": "1316",
+    "Data_lines": "030",
+    "Tropical_cyclone_number_ID": "0019",
+    "International_number_ID_Replicate": "1316",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "YUTU",
+    "LastRevisionDate": "20131001",
+    "Type": "9",
+    "Route": [
+        {
+            "Time": "2013-08-29T00:00:00",
+            "Grade": "2",
+            "Latitude": 29.2,
+            "Longitude": 169.1,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-29T06:00:00",
+            "Grade": "2",
+            "Latitude": 29.0,
+            "Longitude": 169.2,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-29T12:00:00",
+            "Grade": "2",
+            "Latitude": 28.9,
+            "Longitude": 169.2,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-29T18:00:00",
+            "Grade": "2",
+            "Latitude": 28.7,
+            "Longitude": 169.3,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-30T00:00:00",
+            "Grade": "2",
+            "Latitude": 28.5,
+            "Longitude": 169.4,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-30T06:00:00",
+            "Grade": "2",
+            "Latitude": 28.1,
+            "Longitude": 169.6,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-30T12:00:00",
+            "Grade": "2",
+            "Latitude": 27.7,
+            "Longitude": 170.4,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-30T18:00:00",
+            "Grade": "2",
+            "Latitude": 28.1,
+            "Longitude": 171.4,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-31T00:00:00",
+            "Grade": "2",
+            "Latitude": 28.8,
+            "Longitude": 172.6,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-31T06:00:00",
+            "Grade": "2",
+            "Latitude": 30.0,
+            "Longitude": 173.6,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-31T12:00:00",
+            "Grade": "2",
+            "Latitude": 31.1,
+            "Longitude": 174.6,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-08-31T18:00:00",
+            "Grade": "2",
+            "Latitude": 32.0,
+            "Longitude": 175.5,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-01T00:00:00",
+            "Grade": "3",
+            "Latitude": 32.5,
+            "Longitude": 176.2,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 210,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "2013-09-01T06:00:00",
+            "Grade": "3",
+            "Latitude": 33.5,
+            "Longitude": 176.6,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 210,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "2013-09-01T12:00:00",
+            "Grade": "3",
+            "Latitude": 33.6,
+            "Longitude": 176.8,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "3",
+            "Longest_radius_of_30kt": 210,
+            "Shortest_radius_of_30kt": 120
+        },
+        {
+            "Time": "2013-09-01T18:00:00",
+            "Grade": "2",
+            "Latitude": 33.7,
+            "Longitude": 176.9,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-02T00:00:00",
+            "Grade": "2",
+            "Latitude": 33.7,
+            "Longitude": 177.0,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-02T06:00:00",
+            "Grade": "2",
+            "Latitude": 33.7,
+            "Longitude": 177.2,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-02T12:00:00",
+            "Grade": "2",
+            "Latitude": 33.5,
+            "Longitude": 177.3,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-02T18:00:00",
+            "Grade": "2",
+            "Latitude": 33.4,
+            "Longitude": 177.4,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-03T00:00:00",
+            "Grade": "2",
+            "Latitude": 33.1,
+            "Longitude": 177.3,
+            "CentralPressure": "1004",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-03T06:00:00",
+            "Grade": "2",
+            "Latitude": 32.8,
+            "Longitude": 177.2,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-03T12:00:00",
+            "Grade": "2",
+            "Latitude": 32.3,
+            "Longitude": 177.0,
+            "CentralPressure": "1006",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-03T18:00:00",
+            "Grade": "2",
+            "Latitude": 32.2,
+            "Longitude": 176.7,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-04T00:00:00",
+            "Grade": "2",
+            "Latitude": 32.1,
+            "Longitude": 176.3,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-04T06:00:00",
+            "Grade": "2",
+            "Latitude": 31.8,
+            "Longitude": 175.6,
+            "CentralPressure": "1008",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-04T12:00:00",
+            "Grade": "2",
+            "Latitude": 31.6,
+            "Longitude": 174.8,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-04T18:00:00",
+            "Grade": "2",
+            "Latitude": 31.3,
+            "Longitude": 173.7,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-05T00:00:00",
+            "Grade": "2",
+            "Latitude": 31.1,
+            "Longitude": 173.0,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "2013-09-05T06:00:00",
+            "Grade": "2",
+            "Latitude": 31.0,
+            "Longitude": 172.0,
+            "CentralPressure": "1012",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "2013-08-29T00:00:00"
+}

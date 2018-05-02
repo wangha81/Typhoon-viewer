@@ -1,0 +1,141 @@
+{
+    "International_number_ID": "8703",
+    "Data_lines": "13",
+    "International_number_ID_Replicate": "8703",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "RUTH",
+    "Date": "19921021",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1987-06-17T00:00:00",
+            "Grade": "2",
+            "Latitude": 18.9,
+            "Longitude": 116.6,
+            "CentralPressure": "1002",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-17T06:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 116.2,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-17T12:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 116.0,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-17T18:00:00",
+            "Grade": "2",
+            "Latitude": 19.0,
+            "Longitude": 115.7,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-18T00:00:00",
+            "Grade": "2",
+            "Latitude": 19.1,
+            "Longitude": 115.2,
+            "CentralPressure": "996",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-18T06:00:00",
+            "Grade": "3",
+            "Latitude": 19.8,
+            "Longitude": 114.5,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 100,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "1987-06-18T12:00:00",
+            "Grade": "3",
+            "Latitude": 20.4,
+            "Longitude": 113.5,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 100,
+            "Shortest_radius_of_30kt": 100
+        },
+        {
+            "Time": "1987-06-18T18:00:00",
+            "Grade": "3",
+            "Latitude": 21.0,
+            "Longitude": 112.6,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "045",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 80,
+            "Shortest_radius_of_30kt": 80
+        },
+        {
+            "Time": "1987-06-19T00:00:00",
+            "Grade": "3",
+            "Latitude": 21.4,
+            "Longitude": 111.9,
+            "CentralPressure": "992",
+            "Maximum_sustained_wind_speed": "035",
+            "Direction_LR50plus": "0",
+            "Longest_radius_of_50kt": 0,
+            "Shortest_radius_of_50kt": 0,
+            "Direction_LR30plus": "9",
+            "Longest_radius_of_30kt": 60,
+            "Shortest_radius_of_30kt": 60
+        },
+        {
+            "Time": "1987-06-19T06:00:00",
+            "Grade": "2",
+            "Latitude": 22.1,
+            "Longitude": 110.6,
+            "CentralPressure": "994",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-19T12:00:00",
+            "Grade": "2",
+            "Latitude": 22.8,
+            "Longitude": 109.2,
+            "CentralPressure": "998",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-19T18:00:00",
+            "Grade": "2",
+            "Latitude": 23.3,
+            "Longitude": 108.3,
+            "CentralPressure": "999",
+            "Maximum_sustained_wind_speed": "000"
+        },
+        {
+            "Time": "1987-06-20T00:00:00",
+            "Grade": "2",
+            "Latitude": 24.5,
+            "Longitude": 107.0,
+            "CentralPressure": "1000",
+            "Maximum_sustained_wind_speed": "000"
+        }
+    ],
+    "FirstPointDate": "1987-06-17T00:00:00"
+}

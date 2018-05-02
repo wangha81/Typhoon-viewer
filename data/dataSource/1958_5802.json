@@ -1,0 +1,54 @@
+{
+    "International_number_ID": "5802",
+    "Data_lines": "6",
+    "International_number_ID_Replicate": "5802",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Date": "19890601",
+    "Type": "7",
+    "Route": [
+        {
+            "Time": "1958-04-29T00:00:00",
+            "Grade": "2",
+            "Latitude": 12.5,
+            "Longitude": 128.0,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1958-04-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.0,
+            "Longitude": 127.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1958-04-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.6,
+            "Longitude": 125.8,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1958-04-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 125.3,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1958-04-30T00:00:00",
+            "Grade": "2",
+            "Latitude": 14.0,
+            "Longitude": 125.0,
+            "CentralPressure": "1008"
+        },
+        {
+            "Time": "1958-04-30T06:00:00",
+            "Grade": "2",
+            "Latitude": 12.0,
+            "Longitude": 123.0,
+            "CentralPressure": "1006"
+        }
+    ],
+    "FirstPointDate": "1958-04-29T00:00:00"
+}

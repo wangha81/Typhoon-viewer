@@ -1,0 +1,160 @@
+{
+    "International_number_ID": "6514",
+    "Data_lines": "21",
+    "International_number_ID_Replicate": "6514",
+    "Flag": "0",
+    "DurationOfTimeUnit": "6",
+    "Name": "IVY",
+    "Date": "19890601",
+    "Type": "8",
+    "Route": [
+        {
+            "Time": "1965-07-27T00:00:00",
+            "Grade": "2",
+            "Latitude": 13.8,
+            "Longitude": 133.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1965-07-27T06:00:00",
+            "Grade": "2",
+            "Latitude": 13.9,
+            "Longitude": 132.1,
+            "CentralPressure": "1006"
+        },
+        {
+            "Time": "1965-07-27T12:00:00",
+            "Grade": "2",
+            "Latitude": 14.0,
+            "Longitude": 131.0,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1965-07-27T18:00:00",
+            "Grade": "2",
+            "Latitude": 14.0,
+            "Longitude": 130.2,
+            "CentralPressure": "1000"
+        },
+        {
+            "Time": "1965-07-28T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.1,
+            "Longitude": 129.5,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-28T06:00:00",
+            "Grade": "9",
+            "Latitude": 14.4,
+            "Longitude": 128.9,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-28T12:00:00",
+            "Grade": "9",
+            "Latitude": 14.6,
+            "Longitude": 128.2,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-28T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.7,
+            "Longitude": 127.7,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-29T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.9,
+            "Longitude": 127.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-29T06:00:00",
+            "Grade": "9",
+            "Latitude": 14.8,
+            "Longitude": 126.8,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-29T12:00:00",
+            "Grade": "9",
+            "Latitude": 14.7,
+            "Longitude": 126.7,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-29T18:00:00",
+            "Grade": "9",
+            "Latitude": 14.5,
+            "Longitude": 126.2,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-07-30T00:00:00",
+            "Grade": "9",
+            "Latitude": 14.0,
+            "Longitude": 126.0,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-07-30T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.9,
+            "Longitude": 126.6,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-30T12:00:00",
+            "Grade": "9",
+            "Latitude": 13.3,
+            "Longitude": 127.0,
+            "CentralPressure": "990"
+        },
+        {
+            "Time": "1965-07-30T18:00:00",
+            "Grade": "9",
+            "Latitude": 13.1,
+            "Longitude": 127.9,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-07-31T00:00:00",
+            "Grade": "9",
+            "Latitude": 13.1,
+            "Longitude": 129.2,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-07-31T06:00:00",
+            "Grade": "9",
+            "Latitude": 13.5,
+            "Longitude": 130.5,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-07-31T12:00:00",
+            "Grade": "9",
+            "Latitude": 14.5,
+            "Longitude": 131.9,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-07-31T18:00:00",
+            "Grade": "9",
+            "Latitude": 15.8,
+            "Longitude": 132.6,
+            "CentralPressure": "995"
+        },
+        {
+            "Time": "1965-08-01T00:00:00",
+            "Grade": "9",
+            "Latitude": 17.0,
+            "Longitude": 132.0,
+            "CentralPressure": "994"
+        }
+    ],
+    "FirstPointDate": "1965-07-27T00:00:00"
+}
