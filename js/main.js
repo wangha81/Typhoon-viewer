@@ -22,8 +22,7 @@ function prepareData(url) {
 }
 
 function showTyphoon() {
-    console.log(this.value);
-
+    
     function render(source) {
         return new Promise((res, rej) => {
             //Set bounds of our simulation time
@@ -105,6 +104,7 @@ function showTyphoon() {
     }
     async function step(fn) {
         let source = await prepareData('./data/dataSource/' + fn);
+        await viewer.entities.removeAll();
         await render(source);
     }
     step(this.value);
@@ -173,18 +173,3 @@ async function init() {
 
 }
 window.addEventListener('load', init, false);
-
-/**
- * 
- * var greenCircle = viewer.entities.add({
-    position: Cesium.Cartesian3.fromDegrees(-111.0, 40.0, 150000.0),
-    name : 'Green circle at height with outline',
-    ellipse : {
-        semiMinorAxis : 300000.0,
-        semiMajorAxis : 300000.0,
-        height: 200000.0,
-        material : Cesium.Color.GREEN,
-        outline : true // height must be set for outline to display
-    }
-});
- */
