@@ -1,4 +1,5 @@
 @import url(../Cesium/Widgets/widgets.css);
+@import url(operationCompoment.css);
 html,
 body,
 #cesiumContainer {
@@ -8,71 +9,9 @@ body,
     padding: 0;
     overflow: hidden;
     transition-duration: .5s;
+    background-color: #0f0e0e;
+    z-index: 0;
 }
-
-#select {
-    position: fixed;
-    width: 3vw;
-    height: 3vw;
-    background-color: #48b;
-    z-index: 1;
-    margin: 1%;
-    border-radius: 25%;
-    text-align: center;
-    color: #52cccc;
-    transition-duration: .5s;
-    font-size: 16px;
-    /* 100 = view port width, as 1vw = 1/100th of that
-       So if the container is 50% of view port (as here)
-       then factor that into how you want it to size.
-       Let's say you like 5vw if it were the whole width,
-       then for this container, size it at 2.5vw (5 * .5 [i.e. 50%])
-    */
-    font-size: 2.5vw;
-}
-
-#select:hover {
-    cursor: pointer;
-    background-color: #cfe2f0;
-}
-
-#selectList {
-    position: fixed;
-    left: -20vw;
-    height: 80vh;
-    width: 20vw;
-    z-index: 1;
-    background-color: #000000;
-    transition-duration: .5s;
-    color: #52cccc;
-    overflow-x: hidden;
-    text-align: center
-}
-
-.searchBtn {
-    color: aquamarine;
-    background-color: #173850;
-    transition-duration: .5s;
-    text-align: center;
-    border-radius: 5%;
-    margin: 3%;
-    padding: 2%;
-}
-
-.searchBtn:hover {
-    cursor: pointer;
-    background-color: #2298ec;
-}
-
-.searchBar {    
-    background-color: #383838;
-    color: ghostwhite;
-    width: 90%;
-    margin: 3%;
-    padding: 2%;
-    border-style: unset;
-}
-
 /* width */
 ::-webkit-scrollbar {
     width: 10px;

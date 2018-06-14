@@ -1,0 +1,85 @@
+#operationContainer{
+    position: fixed;
+    width: 25vw;
+    height: 100vh;
+    left: -20vw;
+    transition-duration: .3s;
+    z-index: 1;
+}
+#op-fileld{
+    width: 20vw;
+    height: 100vh;
+    float: left;
+    z-index: 2;
+}
+#op-triggers{
+    width: 5vw;
+    height: 100vh;
+    float: left;
+    z-index: 2;
+}
+.optionCard{
+    position: fixed;
+    left: -20vw;
+    width: 20vw;
+    height: 100vh;
+    transition-duration: .3s;
+    background-color: #1d1d1d;
+    overflow-x: hidden;
+}
+.discription{
+    height: 4vw;
+    margin-top: .5vw;
+    margin-right: 0;
+    font-size: 3vw;
+    text-align: center;
+    color: azure;
+    background-color: #2b2b2b;
+}
+.clickable:hover{
+    cursor: pointer;
+    color: aquamarine;
+    background-color: #2b2b2b91;
+}
+.btn{
+    position: relative;
+    margin: .5vw;
+    width: 4vw;
+    height: 4vw;
+    border-radius: 10%;
+    background-color: #ffffff;
+    text-align: center;
+    z-index: 3;
+    transition-duration: .3s;
+    font-size: 3.5vw;
+    user-select:none;
+}
+.btn:hover{
+    cursor: pointer;
+}
+.vBtn{
+    opacity: 0;
+}
+.searchBar {    
+    background-color: #383838;
+    color: ghostwhite;
+    height: 5vh;
+    width: 90%;
+    margin: 3%;
+    padding: 2%;
+    border-style: unset;
+}
+.listBtn{
+    background-color: #383838;
+    color: ghostwhite;
+    height: 5vh;
+    width: 90%;
+    margin: 3%;
+    padding: 2%;
+    font-size: 5vh;
+    text-align: center;
+}
+.listBtn:hover{
+    cursor: pointer;
+    color: aquamarine;
+}

@@ -10,16 +10,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
   <title>Typhoon Viewer</title>
   <script src="Cesium/Cesium.js"></script>
-  <script src="js/main.js"></script>
+  <script type="module" src="js/main.js"></script>
   <link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
   <div id="cesiumContainer">
-    <div id="select">S</div>
-    <div id="selectList">
-      <div>
-        <input type="text" class="searchBar" id="searchInput" placeholder="Search..">
+    <div id="operationContainer">
+      <div id="op-fileld">
+        <div class="optionCard">
+          <div class="discription clickable" id="closeBtn">&#x2716</div>
+          <div class="discription">All</div>
+          <div class="discription">Cross Taiwan</div>
+          <div class="discription">Year</div>
+        </div>
+        <div class="optionCard"></div>
+        <div class="optionCard"></div>
+        <div class="optionCard"></div>
+      </div>
+      <div id="op-triggers">
+        <div class="btn" id="op-btn-main">O</div>
+        <div class="btn vBtn">T</div>
+        <div class="btn vBtn">X</div>
+        <div class="btn vBtn">S</div>
       </div>
     </div>
   </div>
