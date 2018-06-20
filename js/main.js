@@ -78,6 +78,6 @@ async function init() {
     await page.create('../data/file_list_tagged.json', 1);
     await page.create('../data/file_list_tagged.json', 2);
     await page.create('../data/file_list_tagged.json', 3);
-    bindEvent(move);
+    await bindEvent(move);
 }
 window.addEventListener('load', init, false);

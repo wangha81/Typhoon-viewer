@@ -12,14 +12,18 @@ export default function (card = null) {
         switch (index) {
             case 1:
                 await page_1(card);
+                return true;
                 break;
             case 2:
                 await page_2(card);
+                return true;
             case 3:
                 await page_3(card);
+                return true;
             default:
                 break;
         }
+
     }
 }
 

@@ -18,7 +18,7 @@ export default function (viewer = null) {
         } else {
             this.stopTime = (this.stopTime < time[1]) ? time[1] : this.stopTime;
         }
-        await setTimeBounds(this.viewer,[this.startTime, this.stopTime]);
+        await setTimeBounds(this.viewer, [this.startTime, this.stopTime]);
     }
     this.clear = async () => {
         await this.viewer.entities.removeAll();
@@ -29,7 +29,21 @@ export default function (viewer = null) {
 function CreatRoute(_viewer, _route_data) {
     return new Promise((res, rej) => {
         //console.log(_route_data, _viewer)
+        let Point = _route_data[0];
+        let Time = Cesium.JulianDate.fromDate(new Date(Point.Time));
+        let first = Time;
+        let last = Time;
+        let Position = Cesium.Cartesian3.fromDegrees(Point.Longitude, Point.Latitude, 100000);
+        let center_position_sample = new Cesium.SampledPositionProperty();
+        center_position_sample.addSample(Time, Position);
         for (let i = 1; i < _route_data.length; i++) {
+            //Center
+            Point = _route_data[i]
+            Time = Cesium.JulianDate.fromDate(new Date(Point.Time));
+            Position = Cesium.Cartesian3.fromDegrees(Point.Longitude, Point.Latitude, 100000);
+            center_position_sample.addSample(Time, Position);
+
+            //Line segment
             let startPoint = _route_data[i - 1];
             let stopPoint = _route_data[i];
             let property = new Cesium.SampledPositionProperty();
@@ -39,23 +53,10 @@ function CreatRoute(_viewer, _route_data) {
             property.addSample(startTime, startPosition);
 
             let stopTime = Cesium.JulianDate.fromDate(new Date(stopPoint.Time));
+            last = stopTime; // for Center
             let stopPosition = Cesium.Cartesian3.fromDegrees(stopPoint.Longitude, stopPoint.Latitude, 100000);
             property.addSample(stopTime, stopPosition);
 
-            //Center
-            _viewer.entities.add({
-                //Use our computed positions
-                position: property,
-                point: {
-                    pixelSize: 8,
-                    color: Cesium.Color.TRANSPARENT,
-                    outlineColor: Cesium.Color.DEEPSKYBLUE,
-                    outlineWidth: 3
-                },
-                path: {
-                    resolution: 1,
-                }
-            });
             //Longest_radius_of_30kt
             _viewer.entities.add({
                 //Use our computed positions
@@ -66,9 +67,6 @@ function CreatRoute(_viewer, _route_data) {
                     height: 1000.0,
                     material: Cesium.Color.fromBytes(107, 160, 254, 80),
                     outline: true // height must be set for outline to display
-                },
-                path: {
-                    resolution: 1,
                 }
             });
 
@@ -82,12 +80,33 @@ function CreatRoute(_viewer, _route_data) {
                     height: 10000.0,
                     material: Cesium.Color.fromBytes(137, 255, 229, 120),
                     outline: true // height must be set for outline to display
-                },
-                path: {
-                    resolution: 1,
                 }
             });
+            
         }
+        //Center
+        let timeLen = Cesium.JulianDate.secondsDifference(last, first)
+        _viewer.entities.add({
+            //Set the entity availability to the same interval as the simulation time.
+            availability: new Cesium.TimeIntervalCollection([new Cesium.TimeInterval({
+                start: first,
+                stop: last
+            })]),
+
+            //Use our computed positions
+            position: center_position_sample,
+            point: {
+                pixelSize: 8,
+                color: Cesium.Color.TRANSPARENT,
+                outlineColor: Cesium.Color.DEEPSKYBLUE,
+                outlineWidth: 3
+            },
+            path: {
+                leadTime:timeLen,
+                trailTime: 60 * 60 * 6,
+                resolution: 60,
+            }
+        });
         res([new Date(_route_data[0].Time), new Date(_route_data[_route_data.length - 1].Time)]);
     });
 }
